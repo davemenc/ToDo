@@ -1,0 +1,38 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2007.07.20.07.30.54;	author dmenconi;	state Exp;
+branches;
+next	;
+
+
+desc
+@early notes on the design of todolist
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@Todo list Design
+
+Todo list is a program (and a database) that tracks todo lists, primarily for coding purpuposes. 
+
+create database todolist;
+
+create table todolist(
+id int not null primary key auto_increment,
+seq int not null,
+product varchar(20) not null,
+title varchar(100) not null,
+details text,
+done int not null);
+
+@

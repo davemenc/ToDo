@@ -1,0 +1,69 @@
+head	1.2;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.2
+date	2007.07.04.20.27.45;	author dmenconi;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2005.01.31.10.44.30;	author dave;	state Exp;
+branches;
+next	;
+
+
+desc
+@functions used in todolist
+@
+
+
+1.2
+log
+@check point
+@
+text
+@<?php
+/* $Id$ */
+include_once("config.php");
+
+/***********************************************************************/
+//######################################################################
+
+// Global Mysql connection functions
+
+function db_connection(){
+ 	global $dbname, $tableprefix, $adminpassword, $dbuser, $dbpass, $dbhost,$link;
+	// Open the connection
+	$link = mysql_connect($dbhost, $dbuser, $dbpass) or errd("MySQL Error!","Connection MySQL server : $dbhost failed!");
+	// pick the database
+	mysql_select_db($dbname,$link);
+}
+// Disconnect the DB
+function db_disconnect() {
+	//close the connect
+	global $link;
+	mysql_close($link);
+	$link=NULL;
+}
+
+//######################################################################
+
+/*
+ * $Log$
+ */
+?>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 1
+d27 3
+@

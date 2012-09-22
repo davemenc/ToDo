@@ -1,0 +1,150 @@
+head	1.6;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.6
+date	2007.09.20.21.05.04;	author dmenconi;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2007.09.10.06.02.26;	author dmenconi;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2007.07.20.07.32.29;	author dmenconi;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2007.07.04.20.27.45;	author dmenconi;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2005.02.03.01.19.29;	author dave;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2005.01.31.10.44.30;	author dave;	state Exp;
+branches;
+next	;
+
+
+desc
+@configuration file
+@
+
+
+1.6
+log
+@changed the way we do the last modified and date.
+@
+text
+@<?php
+/* $Id: config.php,v 1.5 2007/09/10 06:02:26 dmenconi Exp $ */
+$dbname="dmenconi";
+$tableprefix="";
+$adminpassword="5guvt4wk";
+$dbuser="dmenconi";
+$dbpass="5guvt4wk";
+$dbhost="localhost";
+$usertable = "user";
+$appnum=4;
+$appword="PtlDMVSwlZ4";
+$lastchange="7/29/07";
+$version="2.1";
+/*
+ * $Log: config.php,v $
+ * Revision 1.5  2007/09/10 06:02:26  dmenconi
+ * checkpoing
+ *
+ * Revision 1.4  2007/07/20 07:32:29  dmenconi
+ * updated the last edited date
+ *
+ * Revision 1.3  2007/07/04 20:27:45  dmenconi
+ * check point
+ *
+ */
+?>
+@
+
+
+1.5
+log
+@checkpoing
+@
+text
+@d2 1
+a2 1
+/* $Id: config.php,v 1.4 2007/07/20 07:32:29 dmenconi Exp $ */
+d13 1
+a13 1
+$version="2.0";
+d16 3
+@
+
+
+1.4
+log
+@updated the last edited date
+@
+text
+@d2 1
+a2 1
+/* $Id: config.php,v 1.3 2007/07/04 20:27:45 dmenconi Exp $ */
+d12 1
+a12 1
+$lastchange="7/20/07";
+d16 3
+@
+
+
+1.3
+log
+@check point
+@
+text
+@d2 1
+a2 1
+/* $Id$ */
+d12 2
+a13 2
+$lastchange="2/2/05";
+$version="1.1";
+d15 4
+a18 1
+ * $Log$
+@
+
+
+1.2
+log
+@added log and id strings
+@
+text
+@d2 2
+a3 1
+$dbname="livetodo";
+d5 3
+a7 3
+$adminpassword="p00psi";
+$dbuser="root";
+$dbpass="p00psi";
+d9 1
+d14 3
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d10 2
+@

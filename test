@@ -1,0 +1,150 @@
+171c171
+< 			$sql = "update $table set done=1 where id=$idnum";
+---
+> 			$sql = "update $table set done=1,status='Done' where id=$idnum";
+177c177
+< 			$sql = "update $table set hidden=1 where id=$idnum";
+---
+> 			$sql = "update $table set hidden=1,status='Deleted' where id=$idnum";
+181a182,196
+>     	}else if("status"==$key){
+>     		debug_string("$key",$val);
+>     		$sethid=$setdone="";
+> 			if('Done'==$val){
+> 				$setdone=",done=1 ";
+> 				$doneflag=1;
+> 			}
+> 			if('Deleted'==$val){
+> 				$sethid=",hidden=1 ";
+> 				$hidflag=1;
+> 			}
+> 			$sql = "update $table set status='$val'$setdone $sethid where id=$idnum";
+> 			debug_string("sql",$sql);
+>     		$result = mysql_query($sql,$link) or die(mysql_error());
+>     		continue;
+218a234
+> //debug_on();
+219a236,237
+> 
+> debug_array("PARAMS",$PARAMS);
+221a240
+> 		debug_string("key=$key, val=$val");
+224c243,244
+< 			$sql = "update $table set done='$val' where id='$idnum'";
+---
+> 			if (1==$val) $t=",status='Done'"; else $t="";
+> 			$sql = "update $table set done='$val' $t  where id='$idnum'";
+231a252,265
+> 	   		$result = mysql_query($sql,$link) or die(mysql_error());
+> 		}
+> 		else if(strstr($key,"st")) {
+> 			$idnum=substr($key,2);
+> 			debug_string("idnum",$idnum);
+> 			debug_string("val",$val);
+> 			if('Done'==$val){
+> 				$setdone=",done=1 ";
+> 			}
+> 			if('Deleted'==$val){
+> 				$sethid=",hidden=1 ";
+> 			}
+> 			$sql = "update $table set status='$val'$setdone $sethid where id=$idnum";
+> 			debug_string("parse summary 3",$sql);
+234a269
+> //exit();
+259c294
+< 		$sql1= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark , username from product, $tbl,$usertable where $usertable.id=$tbl.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $tbl.userno,$orderby";
+---
+> 		$sql1= "select $tbl.id,seq,product.product,title,details,done,status,productid,todoTS,if(length(details)>0,'*','') as mark , username from product, $tbl,$usertable where $usertable.id=$tbl.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $tbl.userno,$orderby";
+261c296
+< 		$sql1= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+---
+> 		$sql1= "select $tbl.id,seq,product.product,title,details,done,status,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+284c319
+<  	$sql2= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and done=1 order by product,seq";
+---
+>  	$sql2= "select $tbl.id,seq,product.product,title,details,done,status,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and done=1 order by product,seq";
+348c383
+< 			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>User</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+---
+> 			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Status</b></td><td><b>User</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+350c385
+< 			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+---
+> 			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Status</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+358a394,414
+>     		$vals=array('Active','Deferred','Delegated','Deleted','Done','Reference');
+> 			print "<td><select  name=\"st$id\">";
+> 			foreach($vals as $val){
+> 				if($todo['status']==$val) $select  = "selected"; else $select = "";
+> 				print "<option value=\"$val\" $select>$val";
+> 			}
+> 			print "</select></td>\n";
+> /*
+> 			if($todo['status']=='active') $select  = "selected"; else $select = "";
+> 			print "<td><select  name=\"st$id\"><option value=\"active\" $select>Active";
+> 			if($todo['status']=='deferred') $select  = "selected"; else $select = "";
+> 			print "<option value=\"deferred\" $select>Deferred";
+> 			if($todo['status']=='delegated') $select  = "selected"; else $select = "";
+> 			print "<option value=\"delegated\" $select>Delegated";
+> 			if($todo['status']=='delete') $select  = "selected"; else $select = "";
+> 			print "<option value=\"deleted\" $select>Delete";
+> 			if($todo['status']=='done') $select  = "selected"; else $select = "";
+> 			print "<option value=\"st4\" $select>Done";
+> 			if($todo['status']=='reference') $select  = "selected"; else $select = "";
+> 			print "<option value=\"st2\" $select>Reference</select></td>\n";
+> */
+407c463
+< 	$productmenu = "Project: <select  name=\"productid\">";
+---
+> 	$productmenu = " <select  name=\"productid\">";
+416c472
+< 	$productmenu.= "</select><br>\n";
+---
+> 	$productmenu.= "</select>";
+427,429c483,495
+< 	print "<b><input type=text name=\"title\" value=\"".$record['title']."\" size=70></b><br>\n";
+< 	print "	Sequence: <input type=text name=\"seq\" value=\"".$record['seq']."\" size=5><br>\n";
+< 	print $productmenu;
+---
+> 	print "<table>\n";
+> 	print "<tr><td><b>Title:</b></td><td> <input type=text name=\"title\" value=\"".$record['title']."\" size=70></td></tr>\n";
+> 	print "<tr><td><b>Sequence:</b></td><td> <input type=text name=\"seq\" value=\"".$record['seq']."\" size=5></td></tr>\n";
+> 	print "<tr><td><b>Project:</b></td><td> ".$productmenu. "</td></tr>\n";
+> 	
+>     $vals=array('Active','Deferred','Delegated','Deleted','Done','Reference');
+> 	print "<tr><td><b>Status:</b></td><td> <select name=\"status\">";
+> 	foreach($vals as $val){
+> 		if($todo['status']==$val) $select  = "selected"; else $select = "";
+> 		print "<option value=\"$val\" $select>$val";
+> 	}
+> 	print "</select></td></tr>\n";
+> 	print "</table>\n";
+430a497
+> 	print "<b>Details: </b><br>\n";
+433a501,502
+> 
+> 
+437c506
+< 		print "Not Done!<br>\n";
+---
+> 		print "<b>Not Done!</b><br>\n";
+440c509
+< 	print "Done: <input name=dn type=checkbox value=1 $doneval><br>";
+---
+> 	print "<b>Done:</b> <input name=dn type=checkbox value=1 $doneval><br>";
+442c511
+< 	print "Delete:  <input name=hd type=checkbox value=1 $hidval><br>";
+---
+> 	print "<b>Delete:</b>  <input name=hd type=checkbox value=1 $hidval><br>";
+561c630
+< 	$sql="insert into todolist (seq,title,details,done,productid,userno) values ('".$PARAMS['seq']."','".$title."','".$PARAMS['details']."','$done','$id','$userno')";
+---
+> 	$sql="insert into todolist (seq,title,details,done,productid,userno,status) values ('".$PARAMS['seq']."','".$title."','".$PARAMS['details']."','$done','$id','$userno','".$PARAMS['status']."')";
+609c678,682
+< </table>
+---
+> <tr><td><b>Status:</b></td>
+> EOF;
+> print "\n<td><select  name=\"status\"><option value=\"Active\" selected>Active<option value=\"Deferred\">Deferred<option value=\"Delegated\">Delegated<option value=\"Delete\">Delete<option value=\"Done\">Done<option value=\"Reference\">Reference</td></tr></table>";
+> echo <<<EOF
+> 

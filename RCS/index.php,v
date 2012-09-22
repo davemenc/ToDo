@@ -1,0 +1,3912 @@
+head	2.7;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+2.7
+date	2010.06.23.20.28.27;	author dmenconi;	state Exp;
+branches;
+next	2.6;
+
+2.6
+date	2010.05.22.01.41.27;	author dmenconi;	state Exp;
+branches;
+next	2.5;
+
+2.5
+date	2010.03.30.18.35.37;	author dmenconi;	state Exp;
+branches;
+next	2.4;
+
+2.4
+date	2009.05.15.19.06.33;	author dmenconi;	state Exp;
+branches;
+next	2.3;
+
+2.3
+date	2008.07.14.22.11.58;	author dmenconi;	state Exp;
+branches;
+next	2.2;
+
+2.2
+date	2008.06.13.18.20.22;	author dmenconi;	state Exp;
+branches;
+next	2.1;
+
+2.1
+date	2008.06.12.23.31.47;	author dmenconi;	state Exp;
+branches;
+next	2.0;
+
+2.0
+date	2008.04.29.16.46.41;	author dmenconi;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2008.04.28.22.01.34;	author dmenconi;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2008.04.28.21.39.32;	author dmenconi;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2008.04.28.18.58.28;	author dmenconi;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2008.04.28.18.12.28;	author dmenconi;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2008.04.28.07.11.00;	author dmenconi;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2008.04.28.06.43.40;	author dmenconi;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2008.04.28.06.22.16;	author dmenconi;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2008.04.28.06.11.01;	author dmenconi;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2008.04.28.03.58.05;	author dmenconi;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2008.04.28.03.45.50;	author dmenconi;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2008.04.28.03.32.29;	author dmenconi;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2008.04.28.00.12.10;	author dmenconi;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2008.04.21.04.22.34;	author dmenconi;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2008.04.21.03.52.28;	author dmenconi;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2007.12.19.18.04.54;	author dmenconi;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2007.12.01.23.24.29;	author dmenconi;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2007.11.14.03.38.32;	author dmenconi;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2007.11.14.02.53.37;	author dmenconi;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2007.11.14.00.44.12;	author dmenconi;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2007.11.14.00.19.54;	author dmenconi;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2007.11.01.20.31.10;	author dmenconi;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2007.11.01.20.28.49;	author dmenconi;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2007.10.08.15.53.05;	author dmenconi;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2007.10.07.16.07.13;	author dmenconi;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2007.10.07.01.11.43;	author dmenconi;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2007.10.07.00.26.23;	author dmenconi;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2007.10.06.22.52.34;	author dmenconi;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2007.10.01.20.51.04;	author dmenconi;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2007.09.29.05.53.53;	author dmenconi;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2007.09.29.05.51.27;	author dmenconi;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2007.09.27.21.26.38;	author dmenconi;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2007.09.21.00.50.43;	author dmenconi;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2007.09.20.22.34.56;	author dmenconi;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2007.09.20.21.08.35;	author dmenconi;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2007.09.20.21.08.23;	author dmenconi;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2007.09.20.21.05.25;	author dmenconi;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2007.09.10.06.10.45;	author dmenconi;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2007.09.10.05.59.19;	author dmenconi;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2007.08.10.20.47.02;	author dmenconi;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2007.08.06.21.23.53;	author dmenconi;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2007.08.06.21.15.27;	author dmenconi;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2007.08.04.03.02.57;	author dmenconi;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2007.08.03.23.33.07;	author dmenconi;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2007.08.03.23.25.13;	author dmenconi;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2007.07.29.15.25.26;	author dmenconi;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2007.07.29.14.12.24;	author dmenconi;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2007.07.21.16.31.06;	author dmenconi;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2007.07.20.07.28.16;	author dmenconi;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2007.07.19.18.01.15;	author dmenconi;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2007.07.04.20.27.45;	author dmenconi;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2007.02.20.07.59.26;	author dmenconi;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2007.01.22.07.02.27;	author dmenconi;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2005.02.03.01.19.29;	author dave;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2005.02.03.01.14.01;	author dave;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2005.01.31.10.44.30;	author dave;	state Exp;
+branches;
+next	;
+
+
+desc
+@main todolist page
+@
+
+
+2.7
+log
+@sorts done items by done date, shows done date on done items
+@
+text
+@<?php
+/*
+        Copyright 2005 Dave Menconi
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+
+/* $Id: index.php,v 2.6 2010/05/22 01:41:27 dmenconi Exp $ */
+/*****************************************
+ * INDEX.PHP -- TODO LIST
+ * This is main routine for the todolist
+ * It generates a list by default and 
+ * various other pages as well as parsing
+ * said pages and updating the database
+ *****************************************/
+	include_once('config.php');
+	include_once('header.php');
+	include_once('../library/miscfunc.php');
+	include_once('../library/debug.php');
+	include_once('../library/loc_login.php');
+	include_once('../library/date.php');
+	include_once "../library/mysql.php";
+	include_once('../library/list.php');
+	include_once('footer.php');
+	include_once('filtersql.php');
+log_on();
+debug_string("--------------------------------- START TODO PROGAM _-------");
+//$PARAMS = FilterSQL(array_merge($_POST,$_GET));
+$PARAMS = array_merge($_POST,$_GET);
+// Create link to DB
+$link = make_mysql_connect($dbhost, $dbuser, $dbpass, $dbname);
+//log in user
+$login = loc_GetAuthenticated($PARAMS,$link,$appword,$cookiename="login",$admin=false,$expiry=0,$title="Todo List", $color='#F0F0F0',"index.php",false);
+if(!login){debug_string("login failed"); exit();}
+$userno=loc_get_userno($link,$cookiename="login");
+if(-1==$userno)JumpTo();
+
+//debug_on();
+debug_string("userno",$userno);
+unset($PARAMS['password']);
+debug_array("params",$PARAMS);
+debug_string ("login succeeded");
+
+	// set persistent sort order 
+	/* possible valid values are
+	  sp -- sequence then project
+	  ps -- project then sequence
+	  st -- status then sequence
+	  stp -- status then project
+	*/
+	if (isset($PARAMS['order'])) $sortorder = $PARAMS['order'];
+	else $sortorder = "st"; // defaults to sequence
+
+	// set the mode
+	if (isset($PARAMS['mode'])){$mode=$PARAMS['mode'];}
+	else $mode = "display_page";
+
+	debug_string("mode",$mode);
+
+	switch($mode){
+		case "d_prod":
+			$fieldinfo[]=array('title'=>"ID",'field'=>"id");
+			$fieldinfo[]=array('title'=>"Project",'field'=>"product");
+			$fieldinfo[]=array('title'=>"Description",'field'=>"description");
+			$fieldinfo[]=array('title'=>"Hidden",'field'=>"hidden");
+			$dbinfo['index']="id";
+			$dbinfo['fieldnames']=array("id","product","description","hidden");
+			$dbinfo['tablenames']=array("product");
+			$dbinfo['where']=array("userno='$userno'");
+			$menu = page_menu();
+			$displayinfo = array('mastertitle'=>'Project', 'actionkeyword'=>"mode", 'listname'=>"d_prod", 'addname'=>"a_prod", 'editname'=>"e_prod", 'editfield'=>"id", 'editindexkeyword'=>"indexno", 'editindexfield'=>"id", 'menu'=>$menu, 'color'=>"feffcc");
+			ListData($link,$fieldinfo,$dbinfo,$displayinfo,$PARAMS,$PageLengths="");
+			break;
+		case "e_prod":
+			$fields['product']="Project";
+			$fields['description']="Description";
+			$fields['hidden']="Hidden?";
+			$form = EditRecord($link,'product','id',$PARAMS['indexno'],$fields,'pe_prod');
+			print $form;
+			break;
+		case "a_prod":
+			$fields['product']="Project";
+			$fields['description']="Description";
+			$form  = AddRecord($link,'product',$fields,"pa_prod");
+			print $form;
+			break;
+		case "pa_prod":
+			$defaults['userno']=$userno;
+			ParseAddRecord($link,"product",$PARAMS,$defaults);
+			JumpTo("index.php?mode=d_prod");
+			break;
+		case "pe_prod":
+			ParseEditRecord($link,'product','id',$PARAMS);
+			JumpTo("index.php?mode=d_prod");
+			break;
+		case "display_add":
+			show_add_form();
+			break;
+		case "parse_add":
+			parse_input();
+			show_add_form();
+			//display_page();
+			break;
+		case "display_weekly":
+			$start = $PARAMS['start'];
+			$end = $PARAMS['end'];
+			display_weekly($link,$start,$end);
+			break;
+		case "parse_summary":
+			parse_summary();
+			display_page($sortorder);
+			break;
+		case "parse_detail":	
+			parse_detail();
+			break;
+		case "detail":
+			display_detail($PARAMS['item']);	
+			break;
+		case "done_page":
+			display_done_page();
+			break;
+		case "display_page":
+			display_page($sortorder);
+			break;
+		case "display_prstat":
+			display_project_stats($link);
+			break;
+		case "logout":
+			loc_delete_cookie($cookiename="login");
+			JumpTo();
+			break;
+		case "test":
+			break;
+		default:
+			debug_string("mode=$mode");
+			display_page($sortorder);
+	}
+break_mysql_connect($link);
+exit();		
+/*****************************************
+ * isallspaces()
+ * Check string to see if it has non-white content
+ * INPUT: string containing text
+ * OUPUT: None
+ * RETURN: true or false
+ *****************************************/
+ function isallspaces($s){
+	debug_string("isallspaces($s)");
+ 	$spaces=chr(9).chr(10).chr(11).chr(12).chr(13).chr(32);
+	$spacepat='/[^'.$spaces.']/';
+	$x = preg_match($spacepat,$s);
+ 	return (0==preg_match($spacepat,$s));
+ }
+/*****************************************
+ * parse_detail()
+ * Parse input from detail form
+ * INPUT: from form generated by form detail
+ * OUTPUT: updates the database
+ * RETURN: redisplays main list
+ *****************************************/
+function parse_detail(){
+	global $link,$PARAMS;
+	debug_string("parse_detail()");
+	debug_array("params",$PARAMS);
+	$today = date("Y-m-d",time());
+	$userno=loc_get_userno($link,$cookiename="login");
+	$table=$tableprefix."todolist";
+	$idnum=$PARAMS['id'];
+	$hidflag = 0;
+	$doneflag=0;
+	foreach ($PARAMS as $key=>$val){
+		//debug_string("key($key)",$val);
+		switch ($key){
+		case "productid":
+    		debug_string("$key",$val);
+			$val = substr($val,1);
+			debug_string("newval",$val);
+			$sql = "update $table set productid='$val' where id=$idnum";
+			debug_string("sql",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+			break;
+		case "dn":
+			$sql = "update $table set done=1,status='Done',donedate='$today' where id=$idnum";
+			debug_string("sql",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+    		$doneflag=1;
+    		continue;
+    		break;
+    	case "hd":
+			$sql = "update $table set hidden=1,status='Deleted' where id=$idnum";
+			debug_string("sql",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+    		$hidflag=1;
+    		continue;
+    		break;
+    	case "status": 
+    		debug_string("$key",$val);
+    		$sethid=$setdone="";
+			if('Done'==$val){
+				$setdone=",done=1,donedate='$today' ";
+				$doneflag=1;
+			}
+			if('Deleted'==$val){
+				$sethid=",hidden=1 ";
+				$hidflag=1;
+			}
+			$sql = "update $table set status='$val'$setdone $sethid where id=$idnum";
+			debug_string("sql",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+    		continue;
+    		break;
+    	case "details":
+    		debug_string("$key",$val);
+			if(isallspaces($val)) $val="";
+		case "delto":
+    	case "seq": 
+    	case "title":
+			$sql = "update $table set $key='$val' where id=$idnum";
+			debug_string("!!! sql ",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+    		continue;
+    		break;
+    	case "userno":
+    	case "mode":
+    	case "id":
+    	case "order":
+    	default: 
+    		continue;
+		}
+	}
+	if ($hidflag==0){
+		$sql = "update $table set hidden=0 where id=$idnum";
+		debug_string("sql",$sql);
+    	$result = mysql_query($sql,$link) or die(mysql_error());
+    }
+    if ($doneflag==0){
+		$sql = "update $table set done=0 where id=$idnum";
+		debug_string("sql",$sql);
+    	$result = mysql_query($sql,$link) or die(mysql_error());
+    }
+	JumpTo();
+}
+/*****************************************
+ * parse_summary()
+ * parses the done and sequence info from summary
+ * INPUT: post data from summary page (display page)
+ * OUTPUT: updates the database
+ * RETURN: 
+ *****************************************/
+function parse_summary(){
+	global $link,$PARAMS;
+	debug_string("parse_summary()");
+
+	debug_array("PARAMS",$PARAMS);
+	$table=$tableprefix."todolist";
+	$existing = get_tododata("select * from todolist where hidden=0");
+	$today = date("Y-m-d",time());
+	foreach ($PARAMS as $key=>$val){
+		debug_string("key=$key, val=$val");
+		if(strstr($key,"dn")){
+//			debug_string("in done code");
+//			debug_string("key=$key, val=$val");
+
+			$idnum=substr($key,2);
+			if ($existing[$idnum]['done']==$val) continue; // skip it if the new value is the same as the old value
+//			debug_string("idnum",$idnum);
+			if (1==$val) $t=",status='Done',donedate='$today'"; else $t="";
+			debug_string ("t",$t);
+			$sql = "update $table set done='$val' $t  where id='$idnum'";
+			debug_string("parse summary 1",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+		}
+		else if(strstr($key,"sq")) {
+			$idnum=substr($key,2);
+			if ($existing[$idnum]['seq']==$val) continue; // skip it if the new value is the same as the old value
+			$sql = "update $table set seq='$val' where id='$idnum'";
+			debug_string("parse summary 2",$sql);
+	   		$result = mysql_query($sql,$link) or die(mysql_error());
+		}
+		else if(strstr($key,"st")) {
+			$sethid=$setdone="";
+			$idnum=substr($key,2);
+			if ($existing[$idnum]['status']==$val) continue; // skip it if the new value is the same as the old value
+			debug_string("idnum",$idnum);
+			debug_string("val",$val);
+			if('Done'==$val){
+				$setdone=",done=1,donedate='$today' ";
+			}
+			if('Active'==$val){
+				$setdone=",done=0 ";
+				$sethid=",hidden=0 ";
+			}
+			if('Deleted'==$val){
+				debug_string("val deleted",$val);
+				$sethid=",hidden=1 ";
+			}
+			$sql = "update $table set status='$val'$setdone $sethid where id=$idnum";
+			debug_string("parse summary 3",$sql);
+    		$result = mysql_query($sql,$link) or die(mysql_error());
+		}
+	}
+}
+/*****************************************
+ * get_tododata
+ * Gets the todo data specified in $sql and indexes it by $id
+ * INPUT: $sql, a valid sql select string
+ * OUTPUT nothing
+ * RETURN: returns a re indexed array or an empty array
+ *****************************************/
+function get_tododata($sql){
+	global $link;
+    $tododata=MYSQLGetData($link,$sql);
+    $records = count($tododata);
+    $result = array();
+    if (0==$records)return $result;// if we have no records, just stop now
+    // step through the data and reorder the array
+    for($i=0;$i<$records;$i++){
+    	$id=$tododata[$i]['id'];
+		$result[$id]=$tododata[$i];
+    }
+    return $result;
+}
+/*****************************************
+ * display_page()
+ * displays the pending items by calling display_results
+ * INPUT: None (well the database)
+ * OUTPUT: Draws the table
+ * RETURN: just exits
+ *****************************************/
+function display_page($order="sp"){
+	global $footer,$header,$link,$usertable;
+	debug_string("display_page(order=$order)");
+	$userno=loc_get_userno($link);
+	$admin = loc_get_usertype($link)=="admin";
+	print "$header";
+	$tbl=$tableprefix."todolist";
+	if ($order=="ps"){
+		debug_string("order ps");
+		$orderby = "product,status,seq";
+	} else if ($order=="sp"){
+		debug_string("order sp");
+		$orderby = "seq,product,status";
+	}else if($order="st"){
+		debug_string("order st");
+		$orderby = "status,seq,product";
+	}else { // stp
+		debug_string("order st");
+		$orderby = "status,product,seq";
+	}
+	if ($admin) {
+		$sql1= "select $tbl.id,seq,product.product,title,details,done,status,productid,duration,$tbl.hidden,taskdate,donedate,status,todoTS,if(length(details)>0,'*','') as mark , username from product, $tbl,$usertable where $usertable.id=$tbl.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $tbl.userno,$orderby";
+	} else {
+		$sql1= "select $tbl.id,seq,product.product,title,details,done,status,productid,duration,$tbl.hidden,taskdate,donedate,status,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+	}
+	debug_string("display page sql1",$sql1);
+	print"<h1>Pending Todo Items</h1>";
+	display_results($sql1);
+	print "<p>\n";
+	print "<a href=\"index.php?mode=done_page\">Show Done Items</a><br>";
+	print "$footer";
+	debug_string("left display_page(order=$order)");
+}
+/*****************************************
+ * display_done_page()
+ * displays the completed items by calling display_results
+ * INPUT: None (well the database)
+ * OUTPUT: Draws the table
+ * RETURN: just exits
+ *****************************************/
+function display_done_page(){
+	global $header,$footer,$link;
+	debug_string("display_done_page");
+	$userno=loc_get_userno($link,$cookiename="login");
+	print $header;
+	$tbl=$tableprefix."todolist";
+ 	$sql2= "select $tbl.id,seq,product.product,title,details,done,status,productid,duration,$tbl.hidden,taskdate,donedate,status,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and status='Done' order by donedate desc, product,seq";
+
+	print "<a href=\"index.php\">Show List of Pending Items</a><br>";
+	print"<h1>Completed Todo Items</h1>";
+	display_results($sql2);
+}
+/*****************************************
+ * page_menu()
+ * 
+ *****************************************/
+function page_menu(){
+	global $link;
+	debug_string("page_menu");
+$menu =  <<<EOF
+<TABLE>
+  <TR>
+    <TD><B>Filter:</B></TD>
+    <TD>
+		<a href="index.php">Show Todo Items </a> |
+		<a href="index.php?mode=display_weekly">Show Weekly Report  </a> |
+		<a href="index.php?mode=done_page"">Show Done Items</a>&nbsp;&nbsp;&nbsp;
+    </TD>
+    <TD><B>Project:</B></TD>
+    <TD> 
+    	<a href="index.php?mode=d_prod">Show Projects</a>  </a> |
+    	<a href="index.php?mode=display_prstat">Show Project Stats  </a> |
+    	<a href="index.php?mode=a_prod">Add Project </a> 
+    </TD>
+  </TR>
+  <TR>
+    <TD><B>Other:</B></TD>
+    <TD>
+    	<a href="index.php?mode=display_add">Add New Todo Items</a> |
+    	<a href="index.php?mode=logout">Log Out</a>
+    </TD>
+    <TD><B>Sort:</B></TD>
+    <TD>
+		<a href="index.php?order=ps">Order By Project </a> |
+		<a href="index.php?order=st">Order by Status</a> |
+		<a href="index.php?order=sp">Order By Seq  </a> 
+    </TD>
+  </TR>
+</TABLE>
+EOF;
+//	$admin = loc_get_usertype($link)=="admin";
+	$menu .= "<br>";
+	return $menu;
+}
+/*****************************************
+ * display_results()
+ * display a table based on the query passed in
+ * INPUT: $myquery which is a select
+ * OUTPUT: displays the results of the select in a table
+ * RETURN: post form that returns changes to the done and seq fields
+ *****************************************/
+function display_results($myquery){
+	global $link,$sortorder;
+	debug_string("display_results()",$myquery);
+
+	$admin = loc_get_usertype($link)=="admin";
+
+	$todolist = get_tododata($myquery);
+   // $result = mysql_query($myquery,$link) or die(mysql_error());
+    //$num_rows = mysql_num_rows($result);
+    $num_rows = count($todolist);
+    print page_menu();
+	if ($num_rows>0){
+		print "Total Incomplete Items: $num_rows<br>\n";
+		print"<form method=\"POST\" action=\"index.php\">\n";
+		print "<input type=\"hidden\" name=\"mode\" value=\"parse_summary\"/>\n";
+		print "<input type=\"hidden\" name=\"order\" value=\"$sortorder\"/>\n";
+		print "<input type=\"submit\" value=\"Update Changes\">\n";
+		print"<table border=0>\n";
+		if ($admin){
+			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Status</b></td><td><b>User</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+		} else {
+			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Status</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+		}
+		//while ($todo=mysql_fetch_array($result)){
+		foreach ($todolist as $key=>$todo){
+			$id=$todo['id'];
+			$doneval="";
+			if ($todo['done']==1){$doneval=" checked ";}
+			print "<tr>\n";
+			print "<td> <input name=dn$id type=checkbox value=1 $doneval></td>";
+			print "	<td><input name=sq$id type=text size=3 value=".$todo['seq']."></td>\n";
+    		$vals=array('Active','Deferred','Delegated','Deleted','Done','Reference');
+			print "<td><select  name=\"st$id\">";
+			foreach($vals as $val){
+				if($todo['status']==$val) $select  = "selected"; else $select = "";
+				print "<option value=\"$val\" $select>$val";
+			}
+			print "</select></td>\n";
+
+			if ($admin) print "	<td>".$todo['username']."</td>\n";
+			print "	<td>".$todo['product']."</td>\n";
+			print "	<td><a href=\"index.php?mode=detail&item=$id&order=$sortorder\"> ".$todo['title']."</a>". $todo['mark']."</td>\n";
+			if ($todo['status']=="Done") print "<td>".$todo['donedate']."</td>\n";
+			//print "	<td>".$todo['details']."</td> \n";
+			print "</tr>\n";
+		}
+		print"</table>\n";
+		print "<input type=\"submit\" value=\"Update Changes\">\n";
+		print "</form>\n";
+		print "Total Incomplete Items: $num_rows<br>\n";
+	} 
+	debug_string("left diplay_results");
+}
+/*****************************************
+ * display_detail()
+ * displays the detail for for editing
+ * INPUT: the item number in $itemnum
+ * OUTPUT: a post form with most of the fields in the record
+ * RETURN: The field names need to match the database names
+ *****************************************/
+function display_detail($itemnum){
+	global $link,$sortorder;
+	global $footer,$header;
+	$userno=loc_get_userno($link,$cookiename="login");
+	debug_string("display_detail($itemnum)");
+
+	// print the header string
+	print "$header";
+
+	// get the product information
+	$sql="select * from product where hidden=0 and userno=$userno order by product";
+	$products = MYSQLGetData($link,$sql);
+	//debug_array("products",$products);
+
+	// get the todo information
+	$tbl=$tableprefix."todolist";
+	$sql="SELECT * from $tbl where userno=$userno and  id=$itemnum limit 1";
+	debug_string("sql",$sql);
+	$records = MYSQLGetData($link,$sql);
+	//debug_array("records",$records);
+	$record=$records[0];
+	debug_array("record",$record);
+	$num_rows = count($records);
+	debug_string("num_rows",$num_rows);
+	$productid=$record['productid'];
+	debug_string("productid",$productid);
+
+	// create the product menu
+	$productmenu = " <select  name=\"productid\">";
+	debug_string("productid",$productid);
+	foreach($products as $precord){
+		$product=$precord['product'];
+		$id = "i".$precord['id'];
+		$select="";
+		if ($productid==$precord['id']) $select="SELECTED";
+		$productmenu.= "<option value=\"$id\" $select>$product\n";
+	}
+	$productmenu.= "</select>";
+	$id = $record['id'];
+	print "<html>\n<head>\n<Title>Todo Details</title>\n</head>\n";
+	print "<body>\n";
+	print "<h2>".$record['title']." ($id)</h2>\n";
+	print "<font size=-1><a href=\"index.php?order=$sortorder\">Return to list</a><br><br>\n";
+	//do the form
+	print "<form method=\"post\" name=\"updaterecord\" action=\"index.php\">\n";
+	print "<input type=\"hidden\" name=\"mode\" value=\"parse_detail\"/>\n";
+	print "<input type=\"hidden\" name=\"id\" value=\"".$record['id']."\"/>\n";
+	print "<input type=\"hidden\" name=\"order\" value=\"$sortorder\"/>\n";
+	print "<table>\n";
+	print "<tr><td><b>Title:</b></td><td> <input type=text name=\"title\" value=\"".$record['title']."\" size=70></td></tr>\n";
+	print "<tr><td><b>Sequence:</b></td><td> <input type=text name=\"seq\" value=\"".$record['seq']."\" size=5></td></tr>\n";
+	print "<tr><td><b>Project:</b></td><td> ".$productmenu. "</td></tr>\n";
+	
+    $vals=array('Active','Deferred','Delegated','Deleted','Done','Reference');
+
+	$statusmenu= "<tr><td><b>Status:</b></td><td> <select name=\"status\">";
+	$status=$record['status'];
+	debug_array("record",$record);
+	debug_string("status",$status);
+	foreach($vals as $val){
+		if($status==$val) $select  = "selected"; else $select = "";
+		$statusmenu .= "<option value=\"$val\" $select>$val\n";
+	}
+	$statusmenu.="</select></td></tr>\n";
+	print $statusmenu;
+	print "<tr><td><b>Delegated To:</b></td><td> <input type=text name=\"delto\" value=\"".$record['delto']."\" size=15></td></tr>\n";
+	print  "<tr><td><b>Last Change:</b></td><td>". $record['todoTS']."</td></tr>\n";
+	print "</table>\n";
+	print "<br><b>Details: </b><br>\n";
+	print "<textarea name=\"details\" cols=80 rows=12>\n";
+	print $record['details']."\n";
+	print "</textarea><br>\n";
+
+
+	if($record['done']){
+		print "<b>Done!</b><br>\n";
+	}else{
+		print "<b>Not Done!</b><br>\n";
+	}
+	if ($record['done']==1){$doneval=" checked ";}
+	print "<b>Done:</b> <input name=dn type=checkbox value=1 $doneval><br>";
+	if ($record['hidden']==1){$hidval=" checked ";}
+	print "<b>Delete:</b>  <input name=hd type=checkbox value=1 $hidval><br>";
+	print "<input type=\"submit\" value=\"Update Item\">\n";
+	print "</form>\n";
+	print "$footer";
+}
+/*****************************************
+ * display_weekly()
+ * displays the data that should be put in the weekly report for the date range
+ * INPUT:  link - a valid connection to the mysql database 
+ *         start date and end date, start and end are in DB format
+ * OUTPUT: a display of the weekly report (in wiki markup) for the date range
+ * RETURN: none
+ *****************************************/
+function display_weekly($link,$start,$end){
+	global $header,$footer;
+	debug_string("display_weekly($start,$end)");
+	debug_string("today",date("m/d/Y"));
+	//debug_string("start",$start);
+	//debug_string("end",$end);
+	$userno=loc_get_userno($link,$cookiename="login");
+
+	// fix start and end, if necessary
+	$nstart = getstart($start);
+	$nend = getend($end);
+	$sql = "select todolist.id,seq,done,title,productid,duration,todolist.hidden,taskdate,donedate,status,todoTS,product.product from todolist,product where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and todolist.hidden=0 and status='Done' and donedate>='$nstart' and donedate<='$nend' order by productid,donedate,seq";
+	debug_string("sql 1",$sql);
+	$dones = MYSQLGetData($link,$sql);
+	debug_array("done",$dones);
+	$donecount = count($dones);
+	if ($donecount<10) $donecount=10;
+	$sql = "select todolist.id,seq,title, done,productid,duration,todolist.hidden,taskdate,donedate,status,todoTS,product.product from todolist,product  where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and  todolist.hidden=0 and status='Active' order by seq,productid,donedate desc limit $donecount";
+	debug_string("sql 2",$sql);
+	$todos = MYSQLGetData($link,$sql);
+	debug_array("todo",$todos);
+
+	// display page
+	print $header;
+	print page_menu()."<br>\n";
+	print "<h1>Weekly Todo List</h1>";
+	print "<b>Start: $start to End: $end </b><br>";
+	print "(Start: $nstart to End: $nend <a href=\"index.php?mode=display_weekly&start=$nstart&end=$nend\">GO</a>)<br><br><br>";
+	foreach($dones as $done){
+		$title = ucwords($done['title']);
+		$prod = $done['product'];
+		print "* $prod: $title<br>\n";
+	}
+	print "<br>To Do <br><br>\n";
+	foreach($todos as $todo){
+		$title = ucwords($todo['title']);
+		$prod = $todo['product'];
+		print "* $prod: $title<br>\n";
+	}
+	print $footer;
+}
+/*****************************************
+ *****************************************/
+function getstart($start){
+	debug_string("getstart($start)");
+	if(""==$start) $epoch = time();
+	else $epoch = datearray_to_epoch(parse_dbdate($start));
+	debug_string("startdate",date("D,m/d/y",$epoch));
+	$secsinday = 86400;
+	$dow = date("w",$epoch);
+	$e=$epoch;
+	//step backward day by day until we get to a monday
+	while (date("w",$e)!=1){//looking for Monday
+		$e-=$secsinday;
+	}
+	debug_string("getstart result", date("D, m/d/y",$e));
+	return date("Y-m-d",$e);
+}
+/*****************************************
+ *****************************************/
+function getend($end){
+	debug_string("getend($end)");
+	if(""==$end) $epoch = time();
+	else $epoch = datearray_to_epoch(parse_dbdate($end));
+	debug_string("enddate",date("D,m/d/y",$epoch));
+	$secsinday = 86400;
+	$dow = date("w",$epoch);
+	$e=$epoch;
+	//step forward day by day until we get to a friday
+	while (date("w",$e)!=5){//looking for Friday
+		$e+=$secsinday;
+	}
+    $result = date("Y-m-d",$e);
+    // ok now add the time to ensure Friday is included
+    $result .= " 23:59:59";
+
+	debug_string("getend result", date("D, m/d/y",$e));
+    return $result;
+}
+/*****************************************
+ *****************************************/
+function add_new_productname($productname){
+	global $link;
+	debug_string("add_new_productname($productname)");
+	$sql="insert into product values ('','$productname')";
+	//$result = mysql_query($sql,$link) or die(mysql_error());
+}
+	
+/*****************************************
+ * parse_input()
+ * parses the data collected by the form
+ * INPUT: none
+ * OUTPUT: changes the database
+ * RETURN: back to the show form stuff
+ *****************************************/
+function parse_input(){
+	global $link,$PARAMS;
+	debug_string("parse_input()");
+	$userno=loc_get_userno($link,$cookiename="login");
+	$done=0;
+	if ("y"==$PARAMS['done']||"Y" == $PARAMS['done']){
+		$done=1;
+	}
+	$today = date("Y-m-d",time());
+	debug_string("today",$today);
+	$id = substr($PARAMS['product'],1);
+	debug_string("id",$id);
+ 	if (isallspaces($PARAMS['title'])) $title="No Title";
+ 	else $title = $PARAMS['title'];
+	$sql="insert into todolist (seq,title,details,done,productid,userno,status,taskdate) values ('".$PARAMS['seq']."','".$title."','".$PARAMS['details']."','$done','$id','$userno','".$PARAMS['status']."','$today')";
+	debug_string("sql",$sql);
+	//execute the SQL Statement
+	$result = mysql_query($sql,$link) or die(mysql_error());
+}
+/*****************************************
+ * show_add_form()
+ *  displays the add todo item form 
+ * INPUT: none
+ * OUTPUT: post data
+ * RETURN: reenters with the from data
+ *****************************************/
+function show_add_form(){
+	global $link, $footer,$header,$PARAMS,$sortorder;
+	debug_string("show_add_form()");
+	$self=$_SERVER['PHP_SELF'];
+	$userno=loc_get_userno($link,$cookiename="login");
+
+	// output header string
+	print"$header";
+	$sql="select * from product where userno=$userno and hidden=0 order by product";
+	debug_string("sql",$sql);
+	$result = mysql_query($sql,$link) or die(mysql_error());
+
+	if(!isset($PARAMS['seq'])) $new_seq=10;
+	else $new_seq = $PARAMS['seq'];//+1;
+echo <<<EOF
+<h1> Add A Todo Item To the List</h1>
+<a href=index.php?order=$sortorder>Display List of Todo Items </a><br><br>
+<form action = "index.php" method=post>
+<input type="hidden" name="mode" value="parse_add">
+<input type="hidden" name="order" value="$sortorder">
+<table>
+<tr><td><b>Seq: </b></td>
+<td><input type=text name="seq" size=5 value="$new_seq"></td></tr>
+<tr><td><b>Project:&nbsp;</b></td>
+<td><select  name="product">
+EOF;
+	while ($products = mysql_fetch_array($result)) {
+		$product=$products['product'];
+		$id = "i".$products['id'];
+		$select="";
+		if ($PARAMS['product']==$id) {$select="SELECTED";}
+		print "<option value=\"$id\" $select>$product";
+	}
+echo <<<EOF
+</select></td></tr>
+<tr><td><b>Title:</b></td>
+<td><input type=text name="title" size=80></td></tr>
+<tr><td><b>Status:</b></td>
+EOF;
+print "\n<td><select  name=\"status\"><option value=\"Active\" selected>Active<option value=\"Deferred\">Deferred<option value=\"Delegated\">Delegated<option value=\"Delete\">Delete<option value=\"Done\">Done<option value=\"Reference\">Reference</td></tr></table>";
+echo <<<EOF
+
+<br>
+<b>Details</b><br>
+<textarea name="details" rows="9" cols="80" ></textarea><br>
+<input type="submit" value="insert record"> 
+</form>
+
+
+EOF;
+print "$footer";
+}
+/******************************************************************
+ * display_project_stats
+  ******************************************************************/
+function display_project_stats($link){
+	global $header,$footer;
+	debug_string("display_project_stts()");
+	$userno=loc_get_userno($link,$cookiename="login");
+	$sql = "select * from product   where product.userno=$userno and  hidden=0 order by product";
+	debug_string("sql 1",$sql);
+	$products = MYSQLGetData($link,$sql);
+	//debug_array("products",$products);
+	for ($i=0;$i<count($products);$i++){
+		// get product id number
+		$productid=$products[$i]['id'];
+
+ 		//get todo stats on that product/project
+		$sql = "select count(*) as count,sum(duration) as duration from todolist where todolist.userno=$userno and productid='$productid' and done=0";
+	    debug_string("sql 2",$sql);
+		$todostats = MYSQLGetData($link,$sql);
+		//debug_array("todostats",$todostats);
+		//add stats to the product/project array
+		$products[$i]['count'] = $todostats[0]['count'];	
+		$products[$i]['duration'] = $todostats[0]['duration'];	
+
+ 		//get done stats on that product/project
+		$sql = "select count(*) as count,sum(duration) as duration from todolist where  todolist.userno=$userno and productid='$productid' and done=1";
+	    debug_string("sql 3",$sql);
+		$todostats = MYSQLGetData($link,$sql);
+		//debug_array("todostats",$todostats);
+		//add stats to the product/project array
+		$products[$i]['donecount'] = $todostats[0]['count'];	
+		$products[$i]['doneduration'] = $todostats[0]['duration'];	
+	}
+
+	//Print Page
+	print $header;
+	print page_menu()."<br>\n";
+	print "<center><h1>Project Stats</h1></center>";
+	print "<center<table border=1 cellpadding=5></center>\n";
+	print "<tr><td><b>Project&nbsp;&nbsp;</b></center></td><td><center><b>Todo Count</b></center></td<td><b><center>Todo Time</b></center></td><td><b><center>Done Count</b></center></td><td><b><center>Done Time</b></center></td></tr>\n";
+	foreach ($products as $prod){
+		print "<tr><td>".$prod['product']."</td><td><center>".$prod['count']."</td><td><center>".$prod['duration']."</td><td><center>".$prod['donecount']."</td><td><center>".$prod['doneduration']."</td></tr>\n";
+	}
+	print "</table>\n";
+	print $footer;
+	exit();
+}
+/******************************************************************
+ * FilterSQL
+  ******************************************************************/
+/*function FilterSQL($s){
+	$result = str_replace("'","\'",$s);
+	return $result;
+}*/
+?>
+@
+
+
+2.6
+log
+@fixed selection of weekly todo list so it only does DONE and ACTIVE tasks
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 2.5 2010/03/30 18:35:37 dmenconi Exp $ */
+d383 1
+a383 1
+ 	$sql2= "select $tbl.id,seq,product.product,title,details,done,status,productid,duration,$tbl.hidden,taskdate,donedate,status,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and status='Done' order by product,seq";
+d480 1
+@
+
+
+2.5
+log
+@Added "Last Change Field to detail page
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 2.4 2009/05/15 19:06:33 dmenconi Exp $ */
+d603 1
+a603 1
+	$sql = "select todolist.id,seq,done,title,productid,duration,todolist.hidden,taskdate,donedate,status,todoTS,product.product from todolist,product where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and todolist.hidden=0 and done=1 and donedate>='$nstart' and donedate<='$nend' order by productid,donedate,seq";
+d609 1
+a609 1
+	$sql = "select todolist.id,seq,title, done,productid,duration,todolist.hidden,taskdate,donedate,status,todoTS,product.product from todolist,product  where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and  todolist.hidden=0 and done=0 order by seq,productid,donedate desc limit $donecount";
+@
+
+
+2.4
+log
+@added delegate to field and link to current week in weekly report
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 2.3 2008/07/14 22:11:58 dmenconi Exp $ */
+d563 1
+@
+
+
+2.3
+log
+@fixed detail displaying and parsing
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 2.2 2008/06/13 18:20:22 dmenconi Exp $ */
+d32 1
+d222 1
+d562 1
+d564 1
+a564 2
+
+	print "<b>Details: </b><br>\n";
+d617 2
+a618 2
+	print "<b>Start: $start to End: $end</b><br>";
+	print "(Start: $nstart to End: $nend)<br><br><br>";
+d814 1
+a814 1
+function FilterSQL($s){
+d817 1
+a817 1
+}
+@
+
+
+2.2
+log
+@fixed bugs in donedate
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 2.1 2008/06/12 23:31:47 dmenconi Exp $ */
+d181 1
+d183 4
+a186 1
+			//debug_string("newval",$val);
+d514 1
+a514 1
+	debug_array("records",$records);
+a532 1
+
+d549 5
+a553 1
+	print "<tr><td><b>Status:</b></td><td> <select name=\"status\">";
+d555 2
+a556 2
+		if($todo['status']==$val) $select  = "selected"; else $select = "";
+		print "<option value=\"$val\" $select>$val";
+d558 2
+a559 1
+	print "</select></td></tr>\n";
+d695 1
+@
+
+
+2.1
+log
+@checkpoint
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 2.0 2008/04/29 16:46:41 dmenconi Exp $ */
+d171 1
+d185 1
+a185 1
+			$sql = "update $table set done=1,status='Done' where id=$idnum";
+d202 1
+a202 1
+				$setdone=",done=1 ";
+d258 1
+d268 1
+a268 1
+			if (1==$val) $t=",status='Done'"; else $t="";
+d288 1
+a288 1
+				$setdone=",done=1 ";
+a806 175
+/*
+ * $Log: index.php,v $
+ * Revision 2.0  2008/04/29 16:46:41  dmenconi
+ * changed the order of the menus; seems to work for all problematic cases
+ *
+ * Revision 1.55  2008/04/28 22:01:34  dmenconi
+ * fixed list of projects in the detail edit
+ *
+ * Revision 1.54  2008/04/28 21:39:32  dmenconi
+ * now we only update
+ * the stuff that changes
+ *
+ * Revision 1.53  2008/04/28 18:58:28  dmenconi
+ * added date to record insert
+ *
+ * Revision 1.52  2008/04/28 18:12:28  dmenconi
+ * fixed a bug that had the detail parsing all screwed up
+ *
+ * Revision 1.51  2008/04/28 07:11:00  dmenconi
+ * worked on persistent ordering; probably not done
+ *
+ * Revision 1.50  2008/04/28 06:43:40  dmenconi
+ * rearranged menus (probably not for the last time!)
+ * :w
+ *
+ * Revision 1.49  2008/04/28 06:22:16  dmenconi
+ * added new menu layout
+ *
+ * Revision 1.48  2008/04/28 06:11:01  dmenconi
+ * changed selection so it's based on status instead of done
+ *
+ * Revision 1.47  2008/04/28 03:58:05  dmenconi
+ * setting done item to active now resets done flag
+ *
+ * Revision 1.46  2008/04/28 03:45:50  dmenconi
+ * fixed product list so it included hidden items
+ *
+ * Revision 1.45  2008/04/28 03:32:29  dmenconi
+ * in add and edit, changed select so we only see non-hidden projects
+ *
+ * Revision 1.44  2008/04/28 00:12:10  dmenconi
+ * added donedate to selects and use it for where clauses insetead of time stamp
+ *
+ * Revision 1.43  2008/04/21 04:22:34  dmenconi
+ * change default seq to 10
+ *
+ * Revision 1.42  2008/04/21 03:52:28  dmenconi
+ * added status in most ways
+ *
+ * Revision 1.41  2007/12/19 18:04:54  dmenconi
+ * reordered weekly report and increased weekly todo list to 10 or the count of the done items
+ *
+ * Revision 1.40  2007/12/01 23:24:29  dmenconi
+ * fixed a bug where it bombs if you type the wrong stuff
+ *
+ * Revision 1.39  2007/11/14 03:38:32  dmenconi
+ * now admins can see more but can't edit certain things
+ * exit
+ *
+ * Revision 1.38  2007/11/14 02:53:37  dmenconi
+ * added logout function
+ *
+ * Revision 1.37  2007/11/14 00:44:12  dmenconi
+ * added "no title" if the form doesn't have title information
+ *
+ * Revision 1.36  2007/11/14 00:19:54  dmenconi
+ * now longer changes seq number, now allows non-admins to see stuf
+ *
+ * Revision 1.35  2007/11/01 20:31:10  dmenconi
+ *  	 remove "new project anme" form from add todo item
+ *
+ * Revision 1.34  2007/11/01 20:28:49  dmenconi
+ * added item count to top, changed initial seq to 0
+ *
+ * Revision 1.33  2007/10/08 15:53:05  dmenconi
+ * now adds userno when it adds a record
+ *
+ * Revision 1.32  2007/10/07 16:07:13  dmenconi
+ * fixed add record so it worked again
+ *
+ * Revision 1.31  2007/10/07 01:11:43  dmenconi
+ * now does multiple users
+ *
+ * Revision 1.30  2007/10/07 00:26:23  dmenconi
+ * added project stats
+ *
+ * Revision 1.29  2007/10/06 22:52:34  dmenconi
+ * fixed isallspaces-related bug
+ *
+ * Revision 1.28  2007/10/01 20:51:04  dmenconi
+ * fixed password issue
+ *
+ * Revision 1.27  2007/09/29 05:53:53  dmenconi
+ *  	 add description to add project page
+ *
+ * Revision 1.26  2007/09/29 05:51:27  dmenconi
+ * removed spaces from blank detail fields (where "blank" is defined as only whitespace)
+ *
+ * Revision 1.25  2007/09/27 21:26:38  dmenconi
+ * fixed issue with adding multiple items (now it does)
+ *
+ * Revision 1.24  2007/09/21 00:50:43  dmenconi
+ * fixed a bug in reporting whether something is done or not
+ *
+ * Revision 1.23  2007/09/20 22:34:56  dmenconi
+ * added a hidden flag and ability to change todo from edit screen
+ *
+ * Revision 1.22  2007/09/20 21:08:35  dmenconi
+ * *** empty log message ***
+ *
+ * Revision 1.21  2007/09/20 21:08:23  dmenconi
+ * checkpoing (?)
+ *
+ * Revision 1.20  2007/09/20 21:05:25  dmenconi
+ * changed the way it displays weekly list to included product and dates
+ *
+ * Revision 1.19  2007/09/10 06:10:45  dmenconi
+ * added a mark after thos things that have descriptions
+ *
+ * Revision 1.18  2007/09/10 05:59:19  dmenconi
+ * added description and hidden fields to product database; now respects hidden
+ *
+ * Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * fixed bug in weekly report that cut out last day
+ *
+ * Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed "Product" to "Project"
+ *
+ * Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * checkpoing
+ *
+ * Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * fixed the product in the edit page
+ *
+ * Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * added total item count & SQL filtering
+ *
+ * Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * check point
+ *
+ * Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * add weekly report back in
+ *
+ * Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed order of display to sequence first
+ *
+ * Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ *
+ * Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * updated the program and now allow for two type of ordering; add.php is now redundant
+ *
+ * Revision 1.8  2007/07/04 20:27:45  dmenconi
+ * removed foolish debug print
+ *
+ * Revision 1.7  2007/02/20 08:22:14  dmenconi
+ * the add f unction now has a default value (other than zero) for the seq number: previous seq value+1
+ *
+ * Revision 1.6  2007/02/20 07:59:26  dmenconi
+ * added code to use the productid value instead of the actual product name in the various forms
+ *
+ * Revision 1.5  2007/01/22 07:02:27  dmenconi
+ * took product name out of todolist and put product id number in
+ * made some changes to the way program is controlled
+ * NO f unctional changes
+ *
+ * Revision 1.4  2005/02/03 01:19:29  dave
+ * added log and id strings
+ *
+ *
+ * Revision 1.3  2005/02/03 01:19:29  dave
+ * added log and id strings
+ *
+ * Revision 1.2  2005/02/03 01:14:01  dave
+ */
+@
+
+
+2.0
+log
+@changed the order of the menus; seems to work for all problematic cases
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.55 2008/04/28 22:01:34 dmenconi Exp $ */
+d58 1
+a58 1
+	else $sortorder = "sp"; // defaults to sequence
+d807 3
+@
+
+
+1.55
+log
+@fixed list of projects in the detail edit
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.54 2008/04/28 21:39:32 dmenconi Exp $ */
+d412 1
+d414 1
+a414 2
+		<a href="index.php?order=sp">Order By Seq  </a> |
+		<a href="index.php?order=ps">Order By Project </a>
+d807 3
+@
+
+
+1.54
+log
+@now we only update
+the stuff that changes
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.53 2008/04/28 18:58:28 dmenconi Exp $ */
+d338 1
+a338 1
+		$orderby = "product,seq,status";
+d499 1
+a499 1
+	$sql="select * from product where hidden=1 and userno=$userno order by product";
+d807 4
+@
+
+
+1.53
+log
+@added date to record insert
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.52 2008/04/28 18:12:28 dmenconi Exp $ */
+d254 1
+a254 1
+debug_array("PARAMS",$PARAMS);
+d256 1
+d264 1
+d274 1
+d282 1
+d303 20
+d358 1
+a358 1
+	print "<a href=\"index.php?mode=done_page\">Show List of Done Items</a><br>";
+a376 1
+
+d395 1
+a395 1
+		<a href="index.php?mode=done_page"">Show List of Done Items</a>&nbsp;&nbsp;&nbsp;
+d435 5
+a439 2
+    $result = mysql_query($myquery,$link) or die(mysql_error());
+    $num_rows = mysql_num_rows($result);
+d453 2
+a454 1
+		while ($todo=mysql_fetch_array($result)){
+d468 1
+a468 14
+/*
+			if($todo['status']=='active') $select  = "selected"; else $select = "";
+			print "<td><select  name=\"st$id\"><option value=\"active\" $select>Active";
+			if($todo['status']=='deferred') $select  = "selected"; else $select = "";
+			print "<option value=\"deferred\" $select>Deferred";
+			if($todo['status']=='delegated') $select  = "selected"; else $select = "";
+			print "<option value=\"delegated\" $select>Delegated";
+			if($todo['status']=='delete') $select  = "selected"; else $select = "";
+			print "<option value=\"deleted\" $select>Delete";
+			if($todo['status']=='done') $select  = "selected"; else $select = "";
+			print "<option value=\"st4\" $select>Done";
+			if($todo['status']=='reference') $select  = "selected"; else $select = "";
+			print "<option value=\"st2\" $select>Reference</select></td>\n";
+*/
+d807 3
+@
+
+
+1.52
+log
+@fixed a bug that had the detail parsing all screwed up
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.51 2008/04/28 07:11:00 dmenconi Exp $ */
+d668 2
+d673 1
+a673 1
+	$sql="insert into todolist (seq,title,details,done,productid,userno,status) values ('".$PARAMS['seq']."','".$title."','".$PARAMS['details']."','$done','$id','$userno','".$PARAMS['status']."')";
+d793 3
+@
+
+
+1.51
+log
+@worked on persistent ordering; probably not done
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.50 2008/04/28 06:43:40 dmenconi Exp $ */
+d32 1
+a32 1
+//log_on();
+d178 2
+a179 1
+		if("productid"==$key){
+d182 2
+a183 1
+		} else if("dn"==$key) {
+d189 2
+a190 1
+		} else if("hd"==$key) {
+d196 2
+a197 1
+    	}else if("status"==$key){
+d212 2
+a213 1
+    	}else if("details"==$key){
+d215 5
+a219 7
+			if(isallspaces($val)){
+				$t="";
+			}else{
+				$t=$val;
+			}
+			$sql = "update $table set details='$t' where id=$idnum";
+			debug_string("sql",$sql);
+d222 8
+a229 4
+		}else if("id"==$key || "mode" ==$key)	continue;
+		$sql = "update $table set $key='$val' where id=$idnum";
+		debug_string("sql",$sql);
+    	$result = mysql_query($sql,$link) or die(mysql_error());
+d791 3
+@
+
+
+1.50
+log
+@rearranged menus (probably not for the last time!)
+:w
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.49 2008/04/28 06:22:16 dmenconi Exp $ */
+a37 1
+//debug_on();
+d43 2
+d50 10
+a59 1
+	debug_array("params",$PARAMS);
+d117 1
+a117 1
+			display_page();
+d129 1
+a129 1
+			display_page($PARAMS['order']);
+d142 1
+a142 1
+			display_page($PARAMS['order']);
+d252 2
+a253 3
+			print "<hr>";
+			debug_string("in done code");
+			debug_string("key=$key, val=$val");
+d256 1
+a256 1
+			debug_string("idnum",$idnum);
+d258 1
+a258 1
+			$debug_string ("t",$t);
+d298 1
+a298 1
+function display_page($order="s"){
+d307 10
+a316 4
+		$orderby = "product,seq";
+	} else {
+		debug_string("order s");
+		$orderby = "seq,product";
+a317 1
+
+d401 1
+a401 1
+	global $link,$order;
+d412 1
+a412 1
+		print "<input type=\"hidden\" name=\"order\" value=\"$order\"/>\n";
+d450 1
+a450 1
+			print "	<td><a href=\"index.php?mode=detail&item=$id\"> ".$todo['title']."</a>". $todo['mark']."</td>\n";
+d469 1
+a469 1
+	global $link;
+d511 1
+a511 1
+	print "<font size=-1><a href=\"index.php\">Return to list</a><br><br>\n";
+d516 1
+d677 1
+a677 1
+	global $link, $footer,$header,$PARAMS;
+d692 1
+a692 1
+<a href=index.php>Display List of Todo Items </a><br><br>
+d695 1
+d784 4
+@
+
+
+1.49
+log
+@added new menu layout
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.48 2008/04/28 06:11:01 dmenconi Exp $ */
+d242 4
+d247 1
+d249 1
+a337 13
+ * subpage_menu()
+ * 
+ *****************************************/
+function dep_subpage_menu(){
+	debug_string("subpage_menu");
+    $menu= "<center><a href=\"index.php\">Display Todo Items</a>\n";
+    $menu .= " | <a href=\"index.php?mode=display_weekly\">Show Weekly Report</a>\n";
+    $menu .= " | <a href=\"index.php?mode=a_prod\">Add Project</a></center>\n";
+    $menu .= "<br>";
+    return page_menu();
+	//return $menu;
+}
+/*****************************************
+d347 6
+a358 6
+    <TD><B>Sort:</B></TD>
+    <TD>
+		<a href="index.php?order=st">Order by Status</a> |
+		<a href="index.php?order=sp">Order By Seq  </a> |
+		<a href="index.php?order=ps">Order By Project </a>
+    </TD>
+a360 6
+    <TD><B>Filter:</B></TD>
+    <TD>
+		<a href="index.php">Show Todo Items </a> |
+		<a href="index.php?mode=display_weekly">Show Weekly Report  </a> |
+		<a href="index.php?mode=done_page"">Show List of Done Items</a>
+    </TD>
+d366 6
+d768 3
+@
+
+
+1.48
+log
+@changed selection so it's based on status instead of done
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.47 2008/04/28 03:58:05 dmenconi Exp $ */
+d66 1
+a66 1
+			$menu = subpage_menu();
+d335 1
+a335 1
+function subpage_menu(){
+d351 32
+a382 11
+	$admin = loc_get_usertype($link)=="admin";
+	$menu = "<a href=\"index.php?mode=display_add\">Add New Todo Items</a>\n";
+	$menu .= " | <a href=\"index.php?order=sp\">Order By Seq</a>\n";
+	$menu .= " | <a href=\"index.php?order=ps\">Order By Project</a>\n";
+	$menu .= " | <a href=\"index.php?mode=display_weekly\">Show Weekly Report</a>\n";
+	$menu .= " | <a href=\"index.php?mode=d_prod\">Show Project</a>\n";
+    $menu .= " | <a href=\"index.php?mode=display_prstat\">Show Project Stats</a>\n";
+    $menu .= " | <a href=\"index.php?mode=a_prod\">Add Project</a>\n";
+    $menu .= " | <a href=\"index.php?mode=logout\">Log Out</a>\n";
+    $menu .= " | <a href=\"index.php\">Show Todo Items</a>\n";
+	$menu .= "<br>";
+d574 1
+a574 1
+	print subpage_menu()."<br>\n";
+d755 1
+a755 1
+	print subpage_menu()."<br>\n";
+d775 3
+@
+
+
+1.47
+log
+@setting done item to active now resets done flag
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.46 2008/04/28 03:45:50 dmenconi Exp $ */
+d324 1
+a324 1
+ 	$sql2= "select $tbl.id,seq,product.product,title,details,done,status,productid,duration,$tbl.hidden,taskdate,donedate,status,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and done=1 order by product,seq";
+d754 3
+@
+
+
+1.46
+log
+@fixed product list so it included hidden items
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.45 2008/04/28 03:32:29 dmenconi Exp $ */
+d262 4
+d754 3
+@
+
+
+1.45
+log
+@in add and edit, changed select so we only see non-hidden projects
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.44 2008/04/28 00:12:10 dmenconi Exp $ */
+d61 1
+d63 1
+a63 1
+			$dbinfo['fieldnames']=array("id","product","description");
+d65 1
+a65 1
+			$dbinfo['where']=array("hidden=0","userno='$userno'");
+d750 3
+@
+
+
+1.44
+log
+@added donedate to selects and use it for where clauses insetead of time stamp
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.43 2008/04/21 04:22:34 dmenconi Exp $ */
+d445 1
+a445 1
+	$sql="select * from product where userno=$userno order by product";
+d749 3
+@
+
+
+1.43
+log
+@change default seq to 10
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.42 2008/04/21 03:52:28 dmenconi Exp $ */
+d294 1
+a294 1
+		$sql1= "select $tbl.id,seq,product.product,title,details,done,status,productid,todoTS,if(length(details)>0,'*','') as mark , username from product, $tbl,$usertable where $usertable.id=$tbl.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $tbl.userno,$orderby";
+d296 1
+a296 1
+		$sql1= "select $tbl.id,seq,product.product,title,details,done,status,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+d319 1
+a319 1
+ 	$sql2= "select $tbl.id,seq,product.product,title,details,done,status,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and done=1 order by product,seq";
+d535 1
+a535 1
+	$sql = "select todolist.id,seq,done,title,productid,todoTS,product.product from todolist,product where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and todolist.hidden=0 and done=1 and todoTS>='$nstart' and todoTS<='$nend' order by productid,todoTS,seq";
+d541 1
+a541 1
+	$sql = "select todolist.id,seq,title, done,productid,todoTS,product.product from todolist,product  where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and  todolist.hidden=0 and done=0 order by seq,productid,todoTS desc limit $donecount";
+d749 3
+@
+
+
+1.42
+log
+@added status in most ways
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.41 2007/12/19 18:04:54 dmenconi Exp $ */
+d654 1
+a654 1
+	if(!isset($PARAMS['seq'])) $new_seq=0;
+d749 3
+@
+
+
+1.41
+log
+@reordered weekly report and increased weekly todo list to 10 or the count of the done items
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.40 2007/12/01 23:24:29 dmenconi Exp $ */
+d171 1
+a171 1
+			$sql = "update $table set done=1 where id=$idnum";
+d177 1
+a177 1
+			$sql = "update $table set hidden=1 where id=$idnum";
+d182 15
+d235 2
+d239 1
+d242 2
+a243 1
+			$sql = "update $table set done='$val' where id='$idnum'";
+d251 16
+d294 1
+a294 1
+		$sql1= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark , username from product, $tbl,$usertable where $usertable.id=$tbl.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $tbl.userno,$orderby";
+d296 1
+a296 1
+		$sql1= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+d319 1
+a319 1
+ 	$sql2= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and $tbl.hidden=0 and done=1 order by product,seq";
+d383 1
+a383 1
+			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>User</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+d385 1
+a385 1
+			print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+d394 21
+d463 1
+a463 1
+	$productmenu = "Project: <select  name=\"productid\">";
+d472 1
+a472 1
+	$productmenu.= "</select><br>\n";
+d483 13
+a495 3
+	print "<b><input type=text name=\"title\" value=\"".$record['title']."\" size=70></b><br>\n";
+	print "	Sequence: <input type=text name=\"seq\" value=\"".$record['seq']."\" size=5><br>\n";
+	print $productmenu;
+d497 1
+d501 2
+d506 1
+a506 1
+		print "Not Done!<br>\n";
+d509 1
+a509 1
+	print "Done: <input name=dn type=checkbox value=1 $doneval><br>";
+d511 1
+a511 1
+	print "Delete:  <input name=hd type=checkbox value=1 $hidval><br>";
+d630 1
+a630 1
+	$sql="insert into todolist (seq,title,details,done,productid,userno) values ('".$PARAMS['seq']."','".$title."','".$PARAMS['details']."','$done','$id','$userno')";
+d678 5
+a682 1
+</table>
+d749 3
+@
+
+
+1.40
+log
+@fixed a bug where it bombs if you type the wrong stuff
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.39 2007/11/14 03:38:32 dmenconi Exp $ */
+d128 1
+a128 9
+			if(isallspaces(" 	 	 	 	 "))print "yes"; else print "no";
+			print "\n";
+
+			if(isallspaces(" oiuasdflkj 	 	 	 "))print "yes"; else print "no";
+			print "\n";
+			if(isallspaces("\n\t\n\t \t\n \t\n"))print "yes"; else print "no";
+			print "\n";
+				break;
+
+d466 1
+a466 1
+	$sql = "select todolist.id,seq,done,title,productid,todoTS,product.product from todolist,product where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and todolist.hidden=0 and done=1 and todoTS>='$nstart' and todoTS<='$nend' order by todoTS,seq";
+d470 3
+a472 1
+	$sql = "select todolist.id,seq,title, done,productid,todoTS,product.product from todolist,product  where todolist.userno=$userno and product.userno=$userno and todolist.userno=product.userno and productid=product.id and  todolist.hidden=0 and done=0 order by seq,todoTS desc limit 10";
+d676 3
+@
+
+
+1.39
+log
+@now admins can see more but can't edit certain things
+exit
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.38 2007/11/14 02:53:37 dmenconi Exp $ */
+d180 1
+a180 1
+			//debug_string("sql",$sql);
+d186 1
+a186 1
+			//debug_string("sql",$sql);
+d227 1
+d232 3
+a234 1
+    		$result = mysql_query("update $table set done=$val where id=$idnum",$link) or die(mysql_error());
+d238 3
+a240 1
+    		$result = mysql_query("update $table set seq=$val where id=$idnum",$link) or die(mysql_error());
+d271 1
+d288 1
+d304 1
+d318 1
+d391 1
+a391 1
+//	debug_string("display_detail($itemnum)");
+d544 1
+d682 4
+@
+
+
+1.38
+log
+@added logout function
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.37 2007/11/14 00:44:12 dmenconi Exp $ */
+d38 1
+a38 1
+
+d247 1
+d249 2
+a250 2
+	global $footer,$header,$link;
+	$userno=loc_get_userno($link,$cookiename="login");
+d261 5
+a265 2
+$sql1= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and $tbl.userno=product.userno and productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+$sql2= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where $tbl.userno=$userno and product.userno=$userno and and $tbl.userno=product.userno productid=product.id and done=1 and $tbl.hidden=0 order by $orderby";
+d271 1
+d309 2
+d319 2
+d333 3
+a335 8
+    print page_menu();
+	//print "<a href=\"index.php?mode=display_add\">Add New Todo Items</a>\n";
+	//print " | <a href=\"index.php?order=sp\">Order By Seq</a>\n";
+	//print " | <a href=\"index.php?order=ps\">Order By Project</a>\n";
+	//print " | <a href=\"index.php?mode=display_weekly\">Show Weekly Report</a>\n";
+	//print " | <a href=\"index.php?mode=d_prod\">Show Project</a>\n";
+    //print  " | <a href=\"index.php?mode=display_prstat\">Show Project Stats</a>\n";
+	//print "<br>";
+d338 1
+d346 5
+a350 1
+		print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Project</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+d358 1
+d369 1
+a620 1
+	//debug_on();
+d672 3
+@
+
+
+1.37
+log
+@added "no title" if the form doesn't have title information
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.36 2007/11/14 00:19:54 dmenconi Exp $ */
+d123 4
+d128 8
+a135 2
+		if(isallspaces(" 	 	 	 	 "))print "yes"; else print "no";
+		print "\n";
+a136 5
+		if(isallspaces(" oiuasdflkj 	 	 	 "))print "yes"; else print "no";
+		print "\n";
+		if(isallspaces("\n\t\n\t \t\n \t\n"))print "yes"; else print "no";
+		print "\n";
+			break;
+d296 17
+d324 8
+a333 7
+	print "<a href=\"index.php?mode=display_add\">Add New Todo Items</a>\n";
+	print " | <a href=\"index.php?order=sp\">Order By Seq</a>\n";
+	print " | <a href=\"index.php?order=ps\">Order By Project</a>\n";
+	print " | <a href=\"index.php?mode=display_weekly\">Show Weekly Report</a>\n";
+	print " | <a href=\"index.php?mode=d_prod\">Show Project</a>\n";
+    print  " | <a href=\"index.php?mode=display_prstat\">Show Project Stats</a>\n";
+	print "<br>";
+d662 3
+@
+
+
+1.36
+log
+@now longer changes seq number, now allows non-admins to see stuf
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.35 2007/11/01 20:31:10 dmenconi Exp $ */
+d521 3
+a523 1
+	$sql="insert into todolist (seq,title,details,done,productid,userno) values ('".$PARAMS['seq']."','".$PARAMS['title']."','".$PARAMS['details']."','$done','$id','$userno')";
+d639 3
+@
+
+
+1.35
+log
+@ 	 remove "new project anme" form from add todo item
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.34 2007/11/01 20:28:49 dmenconi Exp $ */
+d40 1
+a40 1
+$login = loc_GetAuthenticated($PARAMS,$link,$appword,$cookiename="login",$admin=true,$expiry=0,$title="Todo List", $color='#F0F0F0',"index.php",false);
+d546 1
+a546 1
+	else $new_seq = $PARAMS['seq']+1;
+d637 3
+@
+
+
+1.34
+log
+@added item count to top, changed initial seq to 0
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.33 2007/10/08 15:53:05 dmenconi Exp $ */
+a574 1
+<hr>
+a575 12
+<FORM action="$self" method="post">
+<input type="hidden" name="mode" value="Project">
+<TABLE border=0 cellspacing=0 cellpadding=0>
+<TR>
+<TD><B>New Project Name</B></TD>
+<TD><B>Save</B></TD></TR>
+<TR>
+<TD> <INPUT type="text" name="productname"></TD>
+<TD><input type="submit" value="Add"> </TD>
+<TD></TD></TR>
+</TABLE>
+</form>
+d637 3
+@
+
+
+1.33
+log
+@now adds userno when it adds a record
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.32 2007/10/07 16:07:13 dmenconi Exp $ */
+d64 1
+a64 1
+			$dbinfo['where']=array("hidden=0");
+d312 1
+d334 1
+a334 1
+		print "Total Items: $num_rows<br>\n";
+d545 1
+a545 1
+	if(!isset($PARAMS['seq'])) $new_seq=10;
+d650 3
+@
+
+
+1.32
+log
+@fixed add record so it worked again
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.31 2007/10/07 01:11:43 dmenconi Exp $ */
+d83 2
+a84 1
+			ParseAddRecord($link,"product",$PARAMS);
+a160 1
+	debug_on();
+d163 1
+d513 2
+a514 1
+//	debug_string("parse_input()");
+d520 2
+a521 1
+	$sql="insert into todolist (seq,title,details,done,productid) values ('".$PARAMS['seq']."','".$PARAMS['title']."','".$PARAMS['details']."','$done','$id')";
+a522 1
+//	print $sql."<br>";
+d649 3
+@
+
+
+1.31
+log
+@now does multiple users
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.30 2007/10/07 00:26:23 dmenconi Exp $ */
+d32 1
+a32 1
+log_on();
+d41 1
+a41 1
+if(!login){debug_string("failed"); exit();}
+d43 1
+d525 1
+a525 1
+ *  displays the form data
+d532 1
+d534 3
+d538 2
+a539 1
+	$sql="select * from product where todolist.userno=$userno and hidden=0 order by product";
+d647 3
+@
+
+
+1.30
+log
+@added project stats
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.29 2007/10/06 22:52:34 dmenconi Exp $ */
+d241 2
+a242 1
+	global $footer,$header;
+a251 4
+	$sql1 = "select * from $tbl where hidden=0 and done=0 and $tbl.hidden=0 order by product,seq";
+	$sql2 = "select * from $tbl where $tbl.hidden=0 and done=1 and $tbl.hidden=0 order by product,seq";
+$sql1= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where productid=product.id and done=0 and $tbl.hidden=0 order by $orderby";
+$sql2= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where productid=product.id and done=1 and $tbl.hidden=0 order by $orderby";
+d253 2
+d269 2
+a270 1
+	global $header,$footer;
+d273 1
+a273 2
+	$sql2 = "select * from $tbl where $tbl.hidden=0 and done=1 order by product,seq";
+ $sql2= "select $tbl.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, $tbl where productid=product.id and $tbl.hidden=0 and done=1 order by product,seq";
+d344 1
+d351 1
+a351 1
+	$sql="select * from product order by product";
+d357 1
+a357 1
+	$sql="SELECT * from $tbl where id=$itemnum limit 1";
+d423 1
+d428 1
+a428 1
+	$sql = "select todolist.id,seq,done,title,productid,todoTS,product.product from todolist,product where productid=product.id and todolist.hidden=0 and done=1 and todoTS>='$nstart' and todoTS<='$nend' order by todoTS,seq";
+d432 1
+a432 1
+	$sql = "select todolist.id,seq,title, done,productid,todoTS,product.product from todolist,product  where productid=product.id and  todolist.hidden=0 and done=0 order by seq,todoTS desc limit 10";
+d533 1
+a533 1
+	$sql="select * from product where hidden=0 order by product";
+d591 2
+a592 1
+	$sql = "select * from product where hidden=0 order by product";
+d601 1
+a601 1
+		$sql = "select count(*) as count,sum(duration) as duration from todolist where productid='$productid' and done=0";
+d610 1
+a610 1
+		$sql = "select count(*) as count,sum(duration) as duration from todolist where productid='$productid' and done=1";
+d641 3
+@
+
+
+1.29
+log
+@fixed isallspaces-related bug
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.28 2007/10/01 20:51:04 dmenconi Exp $ */
+d118 3
+d308 1
+d584 47
+d639 3
+@
+
+
+1.28
+log
+@fixed password issue
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.27 2007/09/29 05:53:53 dmenconi Exp $ */
+d42 2
+d144 1
+d187 1
+a187 1
+			$sql = "update $table set details='' where id=$idnum";
+d588 3
+@
+
+
+1.27
+log
+@ 	 add description to add project page
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.26 2007/09/29 05:51:27 dmenconi Exp $ */
+a35 1
+debug_array("params",$PARAMS);
+d42 2
+d585 3
+@
+
+
+1.26
+log
+@removed spaces from blank detail fields (where "blank" is defined as only whitespace)
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.25 2007/09/27 21:26:38 dmenconi Exp $ */
+d74 1
+d584 3
+@
+
+
+1.25
+log
+@fixed issue with adding multiple items (now it does)
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.24 2007/09/21 00:50:43 dmenconi Exp $ */
+d114 9
+d130 13
+d151 1
+d159 1
+a159 1
+		debug_string("key($key)",$val);
+d162 1
+a162 1
+			debug_string("newval",$val);
+d165 1
+a165 1
+			debug_string("sql",$sql);
+d171 12
+a184 1
+    		$hidflag=1;
+d583 3
+@
+
+
+1.24
+log
+@fixed a bug in reporting whether something is done or not
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.23 2007/09/20 22:34:56 dmenconi Exp $ */
+a41 1
+//debug_on();
+d90 2
+a91 1
+			display_page();
+a128 1
+	debug_on();
+a375 1
+	//debug_on();
+a431 1
+	//debug_on();
+d549 3
+@
+
+
+1.23
+log
+@added a hidden flag and ability to change todo from edit screen
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.22 2007/09/20 21:08:35 dmenconi Exp $ */
+d354 1
+a354 1
+	if($record[5]){
+d362 1
+a362 1
+	print "Hidden:  <input name=hd type=checkbox value=1 $hidval><br>";
+d551 4
+a554 1
+ * $Log$
+@
+
+
+1.22
+log
+@*** empty log message ***
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ */
+d134 2
+d141 13
+a153 4
+
+
+		} else if("id"==$key || "mode" ==$key)	continue;
+
+d158 10
+a168 1
+	//header("Location: index.php") or scrpt("index.php");
+d210 4
+a213 4
+	$sql1 = "select * from $tbl where done=0 order by product,seq";
+	$sql2 = "select * from $tbl where done=1 order by product,seq";
+$sql1= "select todolist.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, todolist where productid=product.id and done=0 order by $orderby";
+$sql2= "select todolist.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, todolist where productid=product.id and done=1 order by $orderby";
+d232 2
+a233 2
+	$sql2 = "select * from $tbl where done=1 order by product,seq";
+ $sql2= "select todolist.id,seq,product.product,title,details,done,productid,todoTS,if(length(details)>0,'*','') as mark from product, todolist where productid=product.id and done=1 order by product,seq";
+a239 2
+
+
+d276 1
+a276 1
+			$id=$todo[id];
+d278 1
+a278 1
+			if ($todo[done]==1){$doneval=" checked ";}
+d281 4
+a284 4
+			print "	<td><input name=sq$id type=text size=3 value=$todo[seq]></td>\n";
+			print "	<td>$todo[product]</td>\n";
+			print "	<td><a href=\"index.php?mode=detail&item=$id\"> $todo[title]</a> $todo[mark]</td>\n";
+			//print "	<td>$todo[details]</td> \n";
+d338 1
+d341 1
+a341 1
+	print "<h2>".$record['title']." (".$record['id'].")</h2>\n";
+d352 1
+a352 1
+	print "$record[details]\n";
+d357 1
+a357 1
+		print "Not Done!<Br>\n";
+d359 4
+d386 1
+a386 1
+	$sql = "select todolist.id,seq,done,title,productid,todoTS,product.product from todolist,product where productid=product.id and done=1 and todoTS>='$nstart' and todoTS<='$nend' order by todoTS,seq";
+d390 1
+a390 1
+	$sql = "select todolist.id,seq,title, done,productid,todoTS,product.product from todolist,product  where productid=product.id and  done=0 order by seq,todoTS desc limit 10";
+d472 1
+a472 1
+	if ("y"==$PARAMS[done]||"Y" == $PARAMS[done]){
+a474 1
+	//$sql="insert into todolist values ('','$PARAMS[seq]','$PARAMS[product]','$PARAMS[title]','$PARAMS[details]','$done')";
+d476 1
+a476 1
+	$sql="insert into todolist (seq,title,details,done,productid) values ('$PARAMS[seq]','$PARAMS[title]','$PARAMS[details]','$done','$id')";
+a514 1
+
+a549 1
+
+d551 4
+a554 1
+ * $Log: index.php,v $
+a613 57
+ */
+?>
+
+/* 
+ * $Log: index.php,v $
+ * Revision 1.21  2007/09/20 21:08:23  dmenconi
+ * checkpoing (?)
+ *
+ * Revision 1.20  2007/09/20 21:05:25  dmenconi
+ * changed the way it displays weekly list to included product and dates
+ *
+ * Revision 1.19  2007/09/10 06:10:45  dmenconi
+ * added a mark after thos things that have descriptions
+ *
+ * Revision 1.18  2007/09/10 05:59:19  dmenconi
+ * added description and hidden fields to product database; now respects hidden
+ *
+ * Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * fixed bug in weekly report that cut out last day
+ *
+ * Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed "Product" to "Project"
+ *
+ * Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * checkpoing
+ *
+ * Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * fixed the product in the edit page
+ *
+ * Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * added total item count & SQL filtering
+ *
+ * Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * check point
+ *
+ * Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * add weekly report back in
+ *
+ * Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed order of display to sequence first
+ *
+ * Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ *
+ * Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * updated the program and now allow for two type of ordering; add.php is now redundant
+ *
+ * Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * check point
+ *
+ * Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * added code to use the productid value instead of the actual product name in the various forms
+ *
+ * Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * took product name out of todolist and put product id number in
+ * made some changes to the way program is controlled
+ * NO f unctional changes
+d619 1
+a619 58
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.21  2007/09/20 21:08:23  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and checkpoing (?)
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.20  2007/09/20 21:05:25  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and changed the way it displays weekly list to included product and dates
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.19  2007/09/10 06:10:45  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and added a mark after thos things that have descriptions
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.18  2007/09/10 05:59:19  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and added description and hidden fields to product database; now respects hidden
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and fixed bug in weekly report that cut out last day
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and changed "Product" to "Project"
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and NO f unctional changes
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.21 2007/09/20 21:08:23 dmenconi Exp $ and to see if they work
+ * */
+@
+
+
+1.21
+log
+@checkpoing (?)
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ */
+d532 3
+d596 3
+d653 57
+a709 54
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.20  2007/09/20 21:05:25  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and changed the way it displays weekly list to included product and dates
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.19  2007/09/10 06:10:45  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and added a mark after thos things that have descriptions
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.18  2007/09/10 05:59:19  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and added description and hidden fields to product database; now respects hidden
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and fixed bug in weekly report that cut out last day
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and changed "Product" to "Project"
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and NO f unctional changes
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.20 2007/09/20 21:05:25 dmenconi Exp $ and to see if they work
+@
+
+
+1.20
+log
+@changed the way it displays weekly list to included product and dates
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ */
+d532 3
+d593 3
+d647 54
+a700 51
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.19  2007/09/10 06:10:45  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and added a mark after thos things that have descriptions
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.18  2007/09/10 05:59:19  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and added description and hidden fields to product database; now respects hidden
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and fixed bug in weekly report that cut out last day
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and changed "Product" to "Project"
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and NO f unctional changes
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.19 2007/09/10 06:10:45 dmenconi Exp $ and to see if they work
+@
+
+
+1.19
+log
+@added a mark after thos things that have descriptions
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ */
+d361 3
+a363 3
+	$start = getstart($start);
+	$end = getend($end);
+	$sql = "select id,seq,product,done,title,productid,todoTS from todolist where done=1 and todoTS>='$start' and todoTS<='$end' order by todoTS,seq";
+d367 1
+a367 1
+	$sql = "select id,seq,product,title, done,productid,todoTS from todolist where done=0 order by seq,todoTS desc limit 10";
+d375 3
+d380 2
+a381 1
+		print "* $title<br>\n";
+d386 2
+a387 1
+		print "* $title<br>\n";
+a393 1
+	//debug_on();
+a405 1
+	debug_off();
+d532 3
+d590 3
+d641 51
+a691 48
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.18  2007/09/10 05:59:19  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and added description and hidden fields to product database; now respects hidden
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and fixed bug in weekly report that cut out last day
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and changed "Product" to "Project"
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and NO f unctional changes
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.18 2007/09/10 05:59:19 dmenconi Exp $ and to see if they work
+@
+
+
+1.18
+log
+@added description and hidden fields to product database; now respects hidden
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ */
+d192 2
+a193 2
+$sql1= "select todolist.id,seq,product.product,title,details,done,productid,todoTS from product, todolist where productid=product.id and done=0 order by $orderby";
+$sql2= "select todolist.id,seq,product.product,title,details,done,productid,todoTS from product, todolist where productid=product.id and done=1 order by $orderby";
+d213 1
+a213 1
+ $sql2= "select todolist.id,seq,product.product,title,details,done,productid,todoTS from product, todolist where productid=product.id and done=1 order by product,seq";
+d265 1
+a265 1
+			print "	<td><a href=\"index.php?mode=detail&item=$id\"> $todo[title]</a></td>\n";
+d529 3
+d584 3
+d632 48
+a679 45
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.17  2007/08/10 20:47:02  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and fixed bug in weekly report that cut out last day
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and changed "Product" to "Project"
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and NO f unctional changes
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.17 2007/08/10 20:47:02 dmenconi Exp $ and to see if they work
+@
+
+
+1.17
+log
+@fixed bug in weekly report that cut out last day
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ */
+d57 1
+d59 1
+a59 1
+			$dbinfo['fieldnames']=array("id","product");
+d61 1
+a61 1
+			$dbinfo['where']=array();
+d68 2
+d467 1
+a467 1
+	$sql="select * from product order by product";
+d529 3
+d581 3
+d626 45
+a670 42
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.16  2007/08/06 21:23:53  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and changed "Product" to "Project"
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and NO f unctional changes
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.16 2007/08/06 21:23:53 dmenconi Exp $ and to see if they work
+@
+
+
+1.16
+log
+@changed "Product" to "Project"
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ */
+d360 1
+a360 1
+	$sql = "select id,seq,product,done,title,productid,todoTS from todolist where done=1 and todoTS>'$start' and todoTS<'$end' order by todoTS,seq";
+d417 4
+d422 1
+a422 2
+	debug_off();
+	return date("Y-m-d",$e);
+d526 3
+d575 3
+d617 3
+a619 35
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.15  2007/08/06 21:15:27  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and checkpoing
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and NO f unctional changes
+d621 38
+a658 3
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.15 2007/08/06 21:15:27 dmenconi Exp $ and to see if they work
+@
+
+
+1.15
+log
+@checkpoing
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ */
+d56 1
+a56 1
+			$fieldinfo[]=array('title'=>"Product",'field'=>"product");
+d62 1
+a62 1
+			$displayinfo = array('mastertitle'=>'Product', 'actionkeyword'=>"mode", 'listname'=>"d_prod", 'addname'=>"a_prod", 'editname'=>"e_prod", 'editfield'=>"id", 'editindexkeyword'=>"indexno", 'editindexfield'=>"id", 'menu'=>$menu, 'color'=>"feffcc");
+d66 1
+a66 1
+			$fields['product']="Product";
+d71 1
+a71 1
+			$fields['product']="Product";
+d226 1
+a226 1
+    $menu .= " | <a href=\"index.php?mode=a_prod\">Add Products</a></center>\n";
+d245 1
+a245 1
+	print " | <a href=\"index.php?mode=d_prod\">Show Products</a>\n";
+d253 1
+a253 1
+		print"<tr><td><b>Done</b></td><td><b>Seq</b></td><td><b>Product</b></td><td ><b>Title</b></td></tr>";//<td><b>Details</b></td></tr>\n";
+d306 1
+a306 1
+	$productmenu = "Product: <select  name=\"productid\">";
+d474 1
+a474 1
+<tr><td><b>Product:&nbsp;</b></td>
+d498 1
+a498 1
+<input type="hidden" name="mode" value="Product">
+d501 1
+a501 1
+<TD><B>New Product Name</B></TD>
+d523 3
+d569 3
+d608 3
+a610 32
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.14  2007/08/04 03:02:57  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and fixed the product in the edit page
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and NO f unctional changes
+d612 35
+a646 3
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.14 2007/08/04 03:02:57 dmenconi Exp $ and to see if they work
+@
+
+
+1.14
+log
+@fixed the product in the edit page
+@
+text
+@d15 1
+a15 1
+/* $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ */
+d523 3
+d566 3
+d602 3
+a604 29
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.13  2007/08/03 23:33:07  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and added total item count & SQL filtering
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and NO f unctional changes
+d606 32
+a637 3
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.13 2007/08/03 23:33:07 dmenconi Exp $ and to see if they work
+@
+
+
+1.13
+log
+@added total item count & SQL filtering
+@
+text
+@d3 1
+a3 2
+        Copyright 2007 Dave Menconi
+
+a6 1
+
+a7 1
+
+d15 1
+a15 1
+/* $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ */
+d61 2
+a62 1
+			$displayinfo = array('mastertitle'=>'Product', 'actionkeyword'=>"mode", 'listname'=>"d_prod", 'addname'=>"a_prod", 'editname'=>"e_prod", 'editfield'=>"id", 'editindexkeyword'=>"indexno", 'editindexfield'=>"id", 'menu'=>"", 'color'=>"feffcc");
+d66 3
+d71 3
+d76 2
+d80 2
+d126 3
+d132 11
+a142 3
+		if("id"!=$key && "mode" !=$key){	
+    		$result = mysql_query("update $table set $key='$val' where id=$idnum",$link) or die(mysql_error());
+		}
+d144 2
+a145 2
+	//JumpTo();
+	header("Location: index.php") or scrpt("index.php");
+d219 11
+a229 1
+
+d244 2
+d282 3
+d286 7
+d294 23
+a316 4
+	$sql="SELECT * from $tbl where id=$itemnum";
+    $result = mysql_query($sql,$link) or die(mysql_error());
+    $num_rows = mysql_num_rows($result);
+	$record=mysql_fetch_row($result);
+d319 1
+a319 1
+	print "<h2>$record[3] ($record[0])</h2>\n";
+d321 1
+d324 5
+a328 4
+	print "<input type=\"hidden\" name=\"id\" value=\"$record[0]\"/>\n";
+	print "<b><input type=text name=\"title\" value=\"$record[3]\" size=70></b><br>\n";
+	print "	Sequence: <input type=text name=\"seq\" value=\"$record[1]\" size=5><br>\n";
+	print " Product: <input type=text name=\"product\" value=\"$record[2]\" size=15><br>\n";
+d330 1
+a330 1
+	print "$record[4]\n";
+d371 1
+d523 3
+d563 3
+d596 3
+a598 26
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.12  2007/08/03 23:25:13  dmenconi
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor f unctionality
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and NO f unctional changes
+d600 29
+a628 3
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.12 2007/08/03 23:25:13 dmenconi Exp $ and to see if they work
+@
+
+
+1.12
+log
+@check point
+@
+text
+@d18 1
+a18 1
+/* $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ */
+d37 2
+a38 1
+$PARAMS = array_merge($HTTP_POST_VARS,$HTTP_GET_VARS);
+d238 1
+a238 1
+		
+d450 8
+d460 3
+d470 1
+a470 1
+ * lots of tiny changes to make it "better"; mostly about updating the code but some minor functionality
+d479 1
+a479 1
+ * the add function now has a default value (other than zero) for the seq number: previous seq value+1
+d487 1
+a487 1
+ * NO functional changes
+d497 3
+d507 1
+a507 1
+ * lots of tiny changes to make it "better"; mostly about updating the code but some minor functionality
+d521 1
+a521 1
+ * NO functional changes
+d527 2
+a528 14
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.11  2007/07/29 15:25:26  dmenconi
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and add weekly report back in
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor functionality
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+d531 26
+a556 11
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and NO functional changes
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.11 2007/07/29 15:25:26 dmenconi Exp $ and to see if they work
+@
+
+
+1.11
+log
+@add weekly report back in
+@
+text
+@d18 1
+a18 1
+/* $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ */
+d33 1
+d56 18
+a85 3
+		case "add_product":
+			add_new_productname($PARAMS['productname']);
+			break;
+a99 1
+			debug_string("mode=$mode");
+d288 1
+a288 1
+	debug_on();
+d322 1
+a322 1
+	debug_on();
+d341 1
+a341 1
+	debug_on();
+d451 3
+d485 3
+d512 3
+a514 20
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and Revision 1.10  2007/07/29 14:12:24  dmenconi
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and changed order of display to sequence first
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor functionality
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and NO functional changes
+d516 23
+a538 3
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.10 2007/07/29 14:12:24 dmenconi Exp $ and to see if they work
+@
+
+
+1.10
+log
+@changed order of display to sequence first
+@
+text
+@d18 1
+a18 1
+/* $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ */
+d31 1
+a46 1
+
+d63 2
+d274 16
+a289 6
+	$sql = "select id,seq,product,done,productid,todoTS from todolist where done=1 and todoTS>'2007-07-16' and todoTS<'2007-07-20'";
+	$done = MYSQLGetData($link,$sql);
+	debug_array("done",$done);
+	$sql = "select id,seq,product,done,productid,todoTS from todolist where done=0 order by seq,todoTS desc limit 10";
+	$todo = MYSQLGetData($link,$sql);
+	debug_array("todo",$todo);
+d293 9
+a301 3
+
+print "under construction (imagine there is a cute icon here, perhaps animating in a cute way)<br>\n";
+
+d306 38
+d436 3
+d467 3
+d491 3
+a493 17
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and Revision 1.9  2007/07/21 16:31:06  dmenconi
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and lots of tiny changes to make it "better"; mostly about updating the code but some minor functionality
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and NO functional changes
+d495 20
+a514 3
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.9 2007/07/21 16:31:06 dmenconi Exp $ and to see if they work
+@
+
+
+1.9
+log
+@lots of tiny changes to make it "better"; mostly about updating the code but some minor functionality
+@
+text
+@d18 1
+a18 1
+/* $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ */
+d138 1
+a138 1
+function display_page($order="ps"){
+d380 3
+d408 3
+d429 3
+a431 14
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and Revision 1.8  2007/07/20 07:28:16  dmenconi
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and updated the program and now allow for two type of ordering; add.php is now redundant
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and NO functional changes
+d433 17
+a449 3
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.8 2007/07/20 07:28:16 dmenconi Exp $ and to see if they work
+@
+
+
+1.8
+log
+@updated the program and now allow for two type of ordering; add.php is now redundant
+@
+text
+@d18 1
+a18 1
+/* $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ */
+a34 1
+//$PARAMS = array_merge($_POST,$_GET);
+a40 2
+//$PARAMS['mode']="login";
+//$username = $PARAMS['username'];
+a41 1
+if(!login) exit();
+d43 1
+d45 4
+a48 1
+debug_array("params",$PARAMS);
+d51 1
+a52 1
+debug_string("mode",$mode);
+d65 2
+a66 2
+		case "product":
+			add_new_productname($_POST['productname']);
+a77 3
+		case "donelist":
+			display_done_page();
+			break;
+d85 3
+d99 1
+a99 1
+	global $link;
+d101 2
+a102 3
+//	db_connection($link);
+	$idnum=$_POST['id'];
+	foreach ($_POST as $key=>$val){
+a106 1
+//	db_disconnect();
+d118 1
+a118 3
+	global $link;
+	//print_r($_POST);
+	//print"<br>";
+d120 1
+a120 2
+	//db_connection();
+	foreach ($_POST as $key=>$val){
+a122 1
+			//print"$key:$val, dn, $idnum<br>";
+a126 1
+			//print"$key:$val, sq, $idnum<br>";
+a128 1
+		//print "$key:$val<br>\n";
+a129 1
+	//db_disconnect();
+a154 1
+	//db_connection();
+d158 1
+a158 1
+	print "<a href=\"index.php?mode=donelist\">Show List of Done Items</a><br>";
+a159 1
+	//db_disconnect(); 
+a175 1
+	//db_connection();
+a178 1
+	//db_disconnect(); 
+d191 1
+a191 1
+	global $link;
+d201 1
+a230 1
+//print"display_detail($itemnum)<br>\";//debug
+a234 1
+	//db_connection();
+a235 1
+	//print "sql=$sql;<br>";//debug
+a237 1
+//print"num_rows: $num_rows<br>";//debug
+a238 3
+//print"record: <br>";//debug
+//print_r($record);//debug
+//print"<br><br>";//debug
+a259 3
+	//print "</body>\n";
+	//print "</html>\n";
+	//db_disconnect(); 
+d282 1
+a282 1
+
+a285 11
+//-------------------------------------
+/*
+	if($_POST){
+		if("Product"==$_POST['action']){
+			add_new_productname($_POST['productname']);
+		}else{
+			parse_input();
+		}
+	}
+	show_add_form();
+*/
+a289 1
+	db_connection($link);
+d291 1
+a291 2
+	$result = mysql_query($sql,$link) or die(mysql_error());
+    //db_disconnect($link);
+d302 1
+a302 1
+	global $link;
+a303 1
+	db_connection($link);
+d305 1
+a305 1
+	if ("y"==$_POST[done]||"Y" == $_POST[done]){
+d308 3
+a310 3
+	//$sql="insert into todolist values ('','$_POST[seq]','$_POST[product]','$_POST[title]','$_POST[details]','$done')";
+	$id = substr($_POST['product'],1);
+	$sql="insert into todolist (seq,title,details,done,productid) values ('$_POST[seq]','$_POST[title]','$_POST[details]','$done','$id')";
+a313 1
+    //db_disconnect($link);
+d323 1
+a323 1
+	global $link, $footer,$header;
+a325 1
+	db_connection($link);
+d329 2
+a330 2
+	if(!isset($_POST['seq'])) $new_seq=0;
+	else $new_seq = $_POST['seq']+1;
+d346 1
+a346 1
+		if ($_POST['product']==$id) {$select="SELECTED";}
+a376 1
+    //db_disconnect($link);
+d379 4
+a382 1
+ * $Log: add.php,v $
+d405 3
+d423 3
+a425 11
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and Revision 1.6  2007/07/04 20:27:45  dmenconi
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and check point
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and NO functional changes
+d427 14
+a440 3
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.6 2007/07/04 20:27:45 dmenconi Exp $ and to see if they work
+@
+
+
+1.7
+log
+@checkpoint
+@
+text
+@d2 16
+a26 1
+//	include_once('functions.php');
+a29 1
+	//include_once('../library/loginutil.php');
+d34 2
+d37 2
+d40 5
+a44 3
+$PARAMS['mode']="login";
+$username = $PARAMS['username'];
+$login = loc_GetAuthenticated($PARAMS,$link,$appword,$cookiename="login",$admin=false,$expiry=0,$title="Todo List", $color='#F0F0F0',"index.php",false);
+d46 7
+d54 14
+a67 30
+//print "Post: <br>\n"; print_r($_POST);	
+//print "<br><br><br> Get: <br>\n";print_r($_GET);print"<br><br>";
+/*****************************************
+ * There are several cases in this section:
+ *   Post where action = summary: parse summary
+ *   Post otherwise - parse detail
+ * GET with detail flag - display the detail form for that item
+ * GET with "donelist" flag - display all the done items
+ * GET otherwise - display the pending items (THIS IS THE DEFAULT)
+ **************************************/
+ 	//GetAuthenticated($appnum,$appword);	
+	if (isset($PARAMS['action'])){$action=$PARAMS['action'];}
+	else $action = "summary";
+
+    if(isset($PARAMS['action'])){
+        if($PARAMS['action']=="summary"){
+            $action = "parse_summary";
+        } else {
+            $action = "parse_detail";
+        }
+    }
+    else if(isset($PARAMS['detail'])){
+		$action="detail";
+    }else if(isset($PARAMS['donelist'])){
+		$action = "donelist";
+    }else{
+		$action = "display_page";
+    }
+
+	switch($action){
+d70 1
+d76 1
+a76 1
+			display_detail($PARAMS['detail']);	
+d82 1
+d85 2
+a86 1
+			display_page();
+d89 2
+a90 15
+		
+	/*if($_POST){
+		if($_POST['action']=="summary"){
+			parse_summary();
+		} else {
+			parse_detail();
+		}
+	}
+	else if(isset($_GET['detail'])){
+		display_detail($_GET['detail');	
+	}else if(isset($_GET['donelist'])){
+		display_done_page();
+	}else{
+		display_page();
+	}*/
+d104 1
+a104 1
+		if("id"!=$key && "action" !=$key){	
+a129 2
+			
+			
+a134 1
+			
+a138 1
+	display_page();
+d147 2
+a148 1
+function display_page(){
+d152 7
+d161 2
+a162 2
+$sql1= "select todolist.id,seq,product.product,title,details,done,productid,todoTS from product, todolist where productid=product.id and done=0 order by product,seq";
+$sql2= "select todolist.id,seq,product.product,title,details,done,productid,todoTS from product, todolist where productid=product.id and done=1 order by product,seq";
+d168 1
+a168 1
+	print "<a href=\"index.php?donelist\">Show List of Done Items</a><br>";
+d207 4
+a210 1
+	print "<a href=\"add.php\">Add New Todo Items</a><br>";
+d213 1
+a213 1
+		print "<input type=\"hidden\" name=\"action\" value=\"summary\"/>\n";
+d225 1
+a225 1
+			print "	<td><a href=\"index.php?detail=$id\"> $todo[title]</a></td>\n";
+d263 1
+a263 1
+	print "<input type=\"hidden\" name=\"action\" value=\"detail\"/>\n";
+d283 156
+@
+
+
+1.6
+log
+@check point
+@
+text
+@d2 1
+a2 1
+/* $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ */
+d277 3
+d292 3
+a294 8
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and Revision 1.5  2007/02/20 07:59:26  dmenconi
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and added code to use the productid value instead of the actual product name in the various forms
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and NO functional changes
+d296 11
+a306 3
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.5 2007/02/20 07:59:26 dmenconi Exp $ and to see if they work
+@
+
+
+1.5
+log
+@added code to use the productid value instead of the actual product name in the various forms
+@
+text
+@d2 1
+a2 1
+/* $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ */
+d19 1
+a19 1
+
+d277 3
+d289 12
+a300 9
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and $Log: index.php,v $
+ * changed name of the $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ and Revision 1.4  2007/01/22 07:02:27  dmenconi
+ * changed name of the $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ and took product name out of todolist and put product id number in
+ * changed name of the $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ and made some changes to the way program is controlled
+ * changed name of the $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ and NO functional changes
+ * changed name of the $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ and
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and added log and id strings
+ * changed name of the $Id: index.php,v 1.4 2007/01/22 07:02:27 dmenconi Exp $ and to see if they work
+@
+
+
+1.4
+log
+@took product name out of todolist and put product id number in
+made some changes to the way program is controlled
+NO functional changes
+@
+text
+@d2 1
+a2 1
+/* $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ */
+d15 1
+a15 1
+	include_once('../library/loginutil.php');
+d22 3
+a24 2
+
+$login = loc_GetAuthenticated($PARAMS['username'],$PARAMS['password'],$link,$appword,$cookiename="login",$admin=false,$expiry=0,$title="Todo List", $color='#F0F0F0',$mode="login","index.php",false);
+d277 5
+d286 9
+a294 4
+ * changed name of the $Id: index.php,v 1.3 2005/02/03 01:19:29 dave Exp $ and $Log: index.php,v $
+ * changed name of the $Id$ and Revision 1.3  2005/02/03 01:19:29  dave
+ * changed name of the $Id$ and added log and id strings
+ * changed name of the $Id$ and to see if they work
+@
+
+
+1.3
+log
+@added log and id strings
+@
+text
+@d2 1
+a2 1
+/* $Id: index.php,v 1.2 2005/02/03 01:14:01 dave Exp $ */
+d11 1
+a11 1
+	include_once('functions.php');
+d16 9
+a25 1
+	include_once('footer.php');
+d36 41
+a76 3
+ 	GetAuthenticated($appnum,$appword);	
+	if($_POST){
+		if($_POST[action]=="summary"){
+d83 1
+a83 1
+		display_detail($_GET[detail]);	
+d88 1
+a88 1
+	}
+d99 1
+a99 1
+	db_connection();
+d106 1
+a106 1
+	db_disconnect();
+d122 1
+a122 1
+	db_connection();
+d139 1
+a139 1
+	db_disconnect();
+a152 1
+	//$sql = "select * from $tbl order by ";
+d155 4
+a158 1
+	db_connection();
+d164 1
+a164 1
+	db_disconnect(); 
+d178 4
+a181 1
+	db_connection();
+d185 1
+a185 1
+	db_disconnect(); 
+d239 1
+a239 1
+	db_connection();
+d272 1
+a272 1
+	db_disconnect(); 
+d276 3
+d280 4
+a283 1
+ * changed name of the $Id$ and $Log$ to see if they work
+@
+
+
+1.2
+log
+@changed name of the $Id$ and $Log$ to see if they work
+@
+text
+@d2 1
+a2 2
+/* $Id$ */
+/* $Log$ */
+d223 5
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 2
+a3 2
+/* $ID$ */
+/* $LOG$ */
+@
